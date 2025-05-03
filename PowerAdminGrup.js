@@ -1,0 +1,1 @@
+export const powerAdmins = ["D6fqYnZ8UYWMjxeVRoMNgY4BSYB2"]

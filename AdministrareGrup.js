@@ -1,0 +1,1 @@
+export const admins = ["D6fqYnZ8UYWMjxeVRoMNgY4BSYB2"]
