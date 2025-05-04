@@ -1,5 +1,6 @@
 export const sevesoMarkers = [
   {
+    id:1,
     title: "Sun Garden Management S.C.S. din Pucioasa",
     telefon: "0245206400",
     adresa:
@@ -13,6 +14,7 @@ export const sevesoMarkers = [
       "https://isudb.ro/seveso/2023/SUN%20GARDEN%20MANAGEMENT%20S.C.S..pdf",
   },
   {
+    id:2,
     title: "OTELINOX S.A. din Targoviste",
     telefon: "0751033325",
     adresa: "Șoseaua Găești 16, Târgoviște 130087",
@@ -24,6 +26,7 @@ export const sevesoMarkers = [
     pdfUri: "https://isudb.ro/seveso/2023/O%C8%9AELINOX%20S.A..pdf",
   },
   {
+    id:3,
     title: "BUTANGAS ROMANIA S.A. - Sucursala Contesti",
     telefon: "0722468785",
     adresa: "Contesti, DN 71, km 11 + 437",
@@ -39,6 +42,7 @@ export const sevesoMarkers = [
       "https://www.butangas.ro/wp-content/uploads/2021/06/Informatii-public-Suc-Contesti-24.10.2023.pdf",
   },
   {
+    id:4,
     title:
       "SNGN ROMGAZ S.A. - Filiala de înmagazinare Gaze Naturale Depogaz Ploiești S.R.L.",
     telefon: "0749333510",
@@ -52,6 +56,7 @@ export const sevesoMarkers = [
       "https://www.depogazploiesti.ro/application/files/5516/9822/8148/Informatii_catre_public_depozit_Bilciuresti.pdf",
   },
   {
+    id:5,
     title: "VIBRANTZ PERFORMANCE PIGMENTS ROMANIA S.R.L. DIN DOICESTI",
     telefon: "0722679990",
     adresa: "Aleea Sinaia, nr. 120, localitatea Doicesti",
@@ -63,6 +68,7 @@ export const sevesoMarkers = [
       "https://vibrantz.com/wp-content/uploads/2023/10/Elemente-de-informare-publica-septembrie-2023.pdf",
   },
   {
+    id:6,
     title: "CONPET S.A. PLOIESTI - Punct de lucru Siliste",
     telefon: "0742422110",
     adresa: "Aleea Sinaia, nr. 120, localitatea Doicesti",
