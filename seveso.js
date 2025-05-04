@@ -59,14 +59,6 @@ export const sevesoMarkers = [
       latitude: 44.985614,
       longitude: 25.414379,
     },
-    zonaUnu: {
-      latitude: 44.985769,
-      longitude: 25.413368,
-    },
-    zonaDoi: {
-      latitude: 44.9849,
-      longitude: 25.415044,
-    },
     pdfUri:
       "https://vibrantz.com/wp-content/uploads/2023/10/Elemente-de-informare-publica-septembrie-2023.pdf",
   },
