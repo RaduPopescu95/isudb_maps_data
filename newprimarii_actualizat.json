@@ -13,8 +13,8 @@
     "telefonviceprimar": 731847466,
     "Viceprimar2": "Cozma Constantin",
     "telefonviceprimar2": 757775222,
-    "Şef SVSU": "Cristea Chiru Cătălin",
-    "telefonsvsu": 732100203,
+    "Şef SVSU": "Alexandru Laurenţiu George",
+    "telefonsvsu": 732100211,
     "coordinates": {
       "latitude": 44.927104,
       "longitude": 25.4572792
@@ -32,8 +32,8 @@
     "telefonprimar": 743115229,
     "Viceprimar": "Ionescu Ștefania",
     "telefonviceprimar": 728974377,
-    "Şef SVSU": "Popescu Carmen",
-    "telefonsvsu": 749147420
+    "Şef SVSU": "Cioceanu Sebastian",
+    "telefonsvsu": 736649533
   },
   {
     "nrcrt": 3,
@@ -47,8 +47,8 @@
     "telefonprimar": 786719819,
     "Viceprimar": "Tudose Vasile",
     "telefonviceprimar": 723583163,
-    "Şef SVSU": "Zahariuc Mariana",
-    "telefonsvsu": 723514692,
+    "Şef SVSU": "Bîrlog Nicolae",
+    "telefonsvsu": 735555258,
     "coordinates": {
       "latitude": 45.12710120000001,
       "longitude": 25.4198238
@@ -66,8 +66,8 @@
     "telefonprimar": 758888824,
     "Viceprimar": "Dumitrescu Constantin",
     "telefonviceprimar": 723300296,
-    "Şef SVSU": "Diaconu Mitică",
-    "telefonsvsu": 724339738,
+    "Şef SVSU": "Ion Alexandra",
+    "telefonsvsu": 748036548,
     "coordinates": {
       "latitude": 44.7167216,
       "longitude": 25.32786129999999
@@ -85,8 +85,8 @@
     "telefonprimar": 722626781,
     "Viceprimar": "Ianeț Constantin",
     "telefonviceprimar": 726123651,
-    "Şef SVSU": "Catană Elena",
-    "telefonsvsu": 723185668,
+    "Şef SVSU": "Untu Mihai",
+    "telefonsvsu": 723657791,
     "coordinates": {
       "latitude": 45.07749870000001,
       "longitude": 25.4324889
@@ -104,8 +104,8 @@
     "telefonprimar": 744666568,
     "Viceprimar": "Tănase Vasile Mugurel",
     "telefonviceprimar": 752110158,
-    "Şef SVSU": "Ene Octavia",
-    "telefonsvsu": 745349708,
+    "Şef SVSU": "Ene Marius",
+    "telefonsvsu": 751167358,
     "coordinates": {
       "latitude": 44.625587,
       "longitude": 25.744829
@@ -126,9 +126,7 @@
     "coordinates": {
       "latitude": 44.66053369999999,
       "longitude": 25.5741065
-    },
-    "Şef SVSU": "Grigore Anuța Camelia",
-    "telefonsvsu": 728995359
+    }
   },
   {
     "nrcrt": 8,
@@ -140,8 +138,8 @@
     "nrfax": 245226533,
     "Primar": "Niculae Vlăduț",
     "telefonprimar": 737016183,
-    "Şef SVSU": "Petrescu Cristina Elena",
-    "telefonsvsu": "0787582993",
+    "Şef SVSU": "Bucur Alexandru Marian",
+    "telefonsvsu": " ",
     "Viceprimar": "Coman Valentin",
     "telefonviceprimar": 720185588
   },
@@ -157,8 +155,8 @@
     "telefonprimar": 728871843,
     "Viceprimar": "Cojanu Ion",
     "telefonviceprimar": 728871844,
-    "Şef SVSU": "Davidoiu Ionuț",
-    "telefonsvsu": 737852457,
+    "Şef SVSU": "Negrea Maria Mirabela",
+    "telefonsvsu": 720667965,
     "coordinates": {
       "latitude": 45.1410106,
       "longitude": 25.49735919999999
@@ -176,8 +174,8 @@
     "telefonprimar": "0762271039/0786720332",
     "Viceprimar": "Burlacu Nicoleta Loredana",
     "telefonviceprimar": 766305353,
-    "Şef SVSU": "Stanciu Violeta",
-    "telefonsvsu": 760674483,
+    "Şef SVSU": "Burlacu Nicoleta",
+    "telefonsvsu": 766305353,
     "coordinates": {
       "latitude": 44.7508266,
       "longitude": 25.7992388
@@ -195,8 +193,8 @@
     "telefonprimar": 769495411,
     "Viceprimar": "Olteanu Vasile Viorica",
     "telefonviceprimar": 766651280,
-    "Şef SVSU": "Durla Simona Mariana",
-    "telefonsvsu": 744489835
+    "Şef SVSU": "Alexandru Adrian",
+    "telefonsvsu": 768787827
   },
   {
     "nrcrt": 12,
@@ -210,8 +208,8 @@
     "telefonprimar": 728908425,
     "Viceprimar": "Zamfir Marin",
     "telefonviceprimar": 724357770,
-    "Şef SVSU": "Sandu Nineta",
-    "telefonsvsu": 760260817,
+    "Şef SVSU": "Năstase Marius",
+    "telefonsvsu": 728908427,
     "coordinates": {
       "latitude": 44.5740554,
       "longitude": 25.7543097
@@ -229,8 +227,8 @@
     "telefonprimar": 787611317,
     "Viceprimar": "Diaconescu Mihail Adrian",
     "telefonviceprimar": 785751408,
-    "Şef SVSU": "Oprea Florentina",
-    "telefonsvsu": 730623502
+    "Şef SVSU": "Diaconu Marius",
+    "telefonsvsu": 721236935
   },
   {
     "nrcrt": 14,
@@ -244,8 +242,8 @@
     "telefonprimar": 722775956,
     "Viceprimar": "Grigoroiu Adrian",
     "telefonviceprimar": 735881847,
-    "Şef SVSU": "Stancu Melania Carmen",
-    "telefonsvsu": 722550667,
+    "Şef SVSU": "Nicolaiescu Minodora",
+    "telefonsvsu": 726020742,
     "coordinates": {
       "latitude": 45.1588785,
       "longitude": 25.4562144
@@ -263,8 +261,8 @@
     "telefonprimar": 724543280,
     "Viceprimar": "Mihai Ionuț-Valentin",
     "telefonviceprimar": 724020881,
-    "Şef SVSU": "Rotaru Adrian",
-    "telefonsvsu": 724360841,
+    "Şef SVSU": "Popa Sorin Ion",
+    "telefonsvsu": 722451810,
     "coordinates": {
       "latitude": 44.8657639,
       "longitude": 25.6444229
@@ -282,8 +280,8 @@
     "telefonprimar": 744304848,
     "Viceprimar": "Dumitru Ion",
     "telefonviceprimar": 745200090,
-    "Şef SVSU": "Iamandi Constantin",
-    "telefonsvsu": 757072245,
+    "Şef SVSU": "Ciociu Georgiana",
+    "telefonsvsu": 726248121,
     "coordinates": {
       "latitude": 44.6918344,
       "longitude": 25.8792574
@@ -301,8 +299,8 @@
     "telefonprimar": 723698095,
     "Viceprimar": "Ilie Gelu",
     "telefonviceprimar": 724549362,
-    "Şef SVSU": "Bucur Anamaria",
-    "telefonsvsu": 721356892,
+    "Şef SVSU": "Ivănescu Florin",
+    "telefonsvsu": 721592915,
     "coordinates": {
       "latitude": 44.8175255,
       "longitude": 25.6593638
@@ -320,8 +318,8 @@
     "telefonprimar": 728016293,
     "Viceprimar": "Dumitra Ion",
     "telefonviceprimar": 766599629,
-    "Şef SVSU": "Tănase Violeta",
-    "telefonsvsu": 746234993,
+    "Şef SVSU": "Robescu Marian",
+    "telefonsvsu": 731323062,
     "coordinates": {
       "latitude": 45.1151823,
       "longitude": 25.30192409999999
@@ -339,8 +337,8 @@
     "telefonprimar": 760294119,
     "Viceprimar": "Popa Gabriel",
     "telefonviceprimar": 786289288,
-    "Şef SVSU": "Paraschiv Gabriela",
-    "telefonsvsu": 727073027,
+    "Şef SVSU": "Dina Adrian",
+    "telefonsvsu": 785212605,
     "coordinates": {
       "latitude": 45.0834933,
       "longitude": 25.2201241
@@ -358,8 +356,8 @@
     "telefonprimar": 765625581,
     "Viceprimar": "Tudoran Marian George",
     "telefonviceprimar": 721242468,
-    "Şef SVSU": "Mânzu Viorica",
-    "telefonsvsu": 733058235,
+    "Şef SVSU": "Dorobanţu Mihai Florin",
+    "telefonsvsu": 769839888,
     "coordinates": {
       "latitude": 44.601451,
       "longitude": 25.874985
@@ -377,8 +375,8 @@
     "telefonprimar": "0723352017/0731373063",
     "Viceprimar": "Alecu Valeriu",
     "telefonviceprimar": 731373064,
-    "Şef SVSU": "Neagu Daniela",
-    "telefonsvsu": 722407386,
+    "Şef SVSU": "Manda Marian Marius",
+    "telefonsvsu": 723678627,
     "coordinates": {
       "latitude": 44.79589379999999,
       "longitude": 25.33821709999999
@@ -396,8 +394,8 @@
     "telefonprimar": 723325516,
     "Viceprimar": "Nicolae Micu",
     "telefonviceprimar": 726127891,
-    "Şef SVSU": "Cîrstina Maria",
-    "telefonsvsu": 726611533,
+    "Şef SVSU": "Micu Marian",
+    "telefonsvsu": 720803756,
     "coordinates": {
       "latitude": 44.72352089999999,
       "longitude": 25.84934359999999
@@ -415,8 +413,8 @@
     "telefonprimar": 728958570,
     "Viceprimar": "Badea Constantin",
     "telefonviceprimar": 724998158,
-    "Şef SVSU": "Brașoveanu Elena Daniela",
-    "telefonsvsu": 723372574,
+    "Şef SVSU": "Marian Dănciulescu",
+    "telefonsvsu": 722701668,
     "coordinates": {
       "latitude": 44.8712328,
       "longitude": 25.5837979
@@ -434,7 +432,7 @@
     "telefonprimar": 743691041,
     "Viceprimar": "Alexandrescu Georgeta Corina",
     "telefonviceprimar": 786047970,
-    "Şef SVSU": "Nistor Mariana",
+    "Şef SVSU": "NISTOR MARIANA",
     "telefonsvsu": 786437921,
     "coordinates": {
       "latitude": 44.6822427,
@@ -453,8 +451,8 @@
     "telefonprimar": 799777707,
     "Viceprimar": "Miu Iulian",
     "telefonviceprimar": 731354419,
-    "Şef SVSU": "Săndulescu Mihaela",
-    "telefonsvsu": 723434088
+    "Şef SVSU": "Bolboraş Eugen       ",
+    "telefonsvsu": 711084084
   },
   {
     "nrcrt": 26,
@@ -468,8 +466,8 @@
     "telefonprimar": 738574851,
     "Viceprimar": "Ioviță Gheorghe",
     "telefonviceprimar": 743053239,
-    "Şef SVSU": "Stan Gheorghița",
-    "telefonsvsu": 734117302,
+    "Şef SVSU": "Berbec Petre",
+    "telefonsvsu": 760272389,
     "coordinates": {
       "latitude": 44.7887916,
       "longitude": 25.8801083
@@ -486,8 +484,8 @@
     "telefonprimar": 725897632,
     "Viceprimar": "Spînu Florin Costel",
     "telefonviceprimar": 723226318,
-    "Şef SVSU": "Staicu Adrian",
-    "telefonsvsu": 723334620,
+    "Şef SVSU": "Dumitru Titi",
+    "telefonsvsu": 726706710,
     "coordinates": {
       "latitude": 44.7482795,
       "longitude": 25.6717981
@@ -505,8 +503,8 @@
     "telefonprimar": 720419721,
     "Viceprimar": "Oprea Zoie Iuliana",
     "telefonviceprimar": 767527073,
-    "Şef SVSU": "Popescu Niță Adrian",
-    "telefonsvsu": 720789717,
+    "Şef SVSU": "Mirea Cătălin",
+    "telefonsvsu": 734045366,
     "coordinates": {
       "latitude": 44.6491681,
       "longitude": 25.4897067
@@ -524,8 +522,8 @@
     "telefonprimar": 745254357,
     "Viceprimar": null,
     "telefonviceprimar": null,
-    "Şef SVSU": "Stancu Virginia Olimpia",
-    "telefonsvsu": 723612136,
+    "Şef SVSU": "Grigore Niculae",
+    "telefonsvsu": 757577129,
     "coordinates": {
       "latitude": 44.6003664,
       "longitude": 25.9160105
@@ -543,8 +541,8 @@
     "telefonprimar": 765663535,
     "Viceprimar": "Dumitru Alexandru Constantin",
     "telefonviceprimar": 764320284,
-    "Şef SVSU": "Alexandru George Gabriel",
-    "telefonsvsu": 723334046,
+    "Şef SVSU": "Dumitru Alexandru",
+    "telefonsvsu": 764320284,
     "coordinates": {
       "latitude": 44.7617667,
       "longitude": 25.2633463
@@ -562,8 +560,8 @@
     "telefonprimar": 771353483,
     "Viceprimar": "Toica Gheorghe",
     "telefonviceprimar": 724274184,
-    "Şef SVSU": "Andronache Marian",
-    "telefonsvsu": 728329162,
+    "Şef SVSU": "Neagu Tudose Ion",
+    "telefonsvsu": 730556526,
     "coordinates": {
       "latitude": 44.78564979999999,
       "longitude": 25.7164184
@@ -581,8 +579,8 @@
     "telefonprimar": 724365710,
     "Viceprimar": "Ismail Alin Mircea",
     "telefonviceprimar": 741036236,
-    "Şef SVSU": "Chițu Emilia",
-    "telefonsvsu": 741176689,
+    "Şef SVSU": "Stan GheorgheValentin",
+    "telefonsvsu": 724075937,
     "coordinates": {
       "latitude": 44.9963818,
       "longitude": 25.4004012
@@ -600,8 +598,8 @@
     "telefonprimar": 723207038,
     "Viceprimar": "Mihalache Laurențiu Florin",
     "telefonviceprimar": 762736932,
-    "Şef SVSU": "Ștefan Raluca Mariana",
-    "telefonsvsu": 745659228,
+    "Şef SVSU": "Butoi Aurel - I.P.C",
+    "telefonsvsu": 720234067,
     "coordinates": {
       "latitude": 44.7321172,
       "longitude": 25.3639914
@@ -619,8 +617,8 @@
     "telefonprimar": 726380410,
     "Viceprimar": "Marian Titu Vasile",
     "telefonviceprimar": 733926678,
-    "Şef SVSU": "Dițescu Georgiana",
-    "telefonsvsu": "0724575740/0733925679",
+    "Şef SVSU": "Radu Mihai",
+    "telefonsvsu": 733926682,
     "coordinates": {
       "latitude": 44.9146556,
       "longitude": 25.3405365
@@ -638,8 +636,8 @@
     "telefonprimar": 723658512,
     "Viceprimar": "Boulescu Ion Gheorghe",
     "telefonviceprimar": 751966439,
-    "Şef SVSU": "Slotea Ana Maria",
-    "telefonsvsu": 766527943,
+    "Şef SVSU": "Cătănescu Vasile",
+    "telefonsvsu": 725516223,
     "coordinates": {
       "latitude": 44.9171138,
       "longitude": 25.76540989999999
@@ -657,8 +655,8 @@
     "telefonprimar": 786095800,
     "Viceprimar": null,
     "telefonviceprimar": null,
-    "Şef SVSU": "Pred Rodica",
-    "telefonsvsu": 724256949,
+    "Şef SVSU": "Petre Viorel",
+    "telefonsvsu": 786095829,
     "coordinates": {
       "latitude": 44.7909194,
       "longitude": 25.7905723
@@ -676,8 +674,8 @@
     "telefonprimar": 747114301,
     "Viceprimar": "Mădăran Adrian",
     "telefonviceprimar": "0729962835/0751270935",
-    "Şef SVSU": "Moraru Daniela",
-    "telefonsvsu": 751027038,
+    "Şef SVSU": "Axinia Marius Adrian",
+    "telefonsvsu": 724888002,
     "coordinates": {
       "latitude": 45.0188506,
       "longitude": 25.4637914
@@ -695,8 +693,8 @@
     "telefonprimar": 766242239,
     "Viceprimar": "Uță Cătălin Aurelian",
     "telefonviceprimar": 729905985,
-    "Şef SVSU": "Coman Alina Elena",
-    "telefonsvsu": 769041944,
+    "Şef SVSU": "Burcea Nicolae",
+    "telefonsvsu": 730530181,
     "coordinates": {
       "latitude": 44.7478843,
       "longitude": 25.2899159
@@ -714,8 +712,8 @@
     "telefonprimar": 722654028,
     "Viceprimar": null,
     "telefonviceprimar": null,
-    "Şef SVSU": "Ilie Mihai Valentin",
-    "telefonsvsu": 730453879,
+    "Şef SVSU": "Rădulescu Vasile",
+    "telefonsvsu": 731426333,
     "coordinates": {
       "latitude": 44.94352139999999,
       "longitude": 25.5632611
@@ -736,9 +734,7 @@
     "coordinates": {
       "latitude": 44.75386589999999,
       "longitude": 25.50005059999999
-    },
-    "Şef SVSU": "Olteanu Dumitru",
-    "telefonsvsu": 785240538
+    }
   },
   {
     "nrcrt": 41,
@@ -752,8 +748,8 @@
     "telefonprimar": 766695567,
     "Viceprimar": "Nemișanu Robert Constantin",
     "telefonviceprimar": 767289596,
-    "Şef SVSU": "Ciobăniță Andreea Raluca",
-    "telefonsvsu": 743121290,
+    "Şef SVSU": "Matei Madalin Gheorghe",
+    "telefonsvsu": 767450983,
     "coordinates": {
       "latitude": 44.8437972,
       "longitude": 25.2518042
@@ -771,8 +767,8 @@
     "telefonprimar": 732733920,
     "Viceprimar": "Trifescu Marian Alexandru",
     "telefonviceprimar": 727168409,
-    "Şef SVSU": "Mihalcea Nicoleta",
-    "telefonsvsu": 728491124
+    "Şef SVSU": "Nedelcu Alexandru",
+    "telefonsvsu": 731931161
   },
   {
     "nrcrt": 43,
@@ -789,9 +785,7 @@
     "coordinates": {
       "latitude": 45.0283565,
       "longitude": 25.63481209999999
-    },
-    "Şef SVSU": "Șandru Antonio",
-    "telefonsvsu": 722376797
+    }
   },
   {
     "nrcrt": 44,
@@ -805,8 +799,8 @@
     "telefonprimar": 720292322,
     "Viceprimar": "Băjenaru Emil Cornel",
     "telefonviceprimar": 799185850,
-    "Şef SVSU": "Lejan Luminița",
-    "telefonsvsu": 724774411,
+    "Şef SVSU": "Stan Alexandru Marian",
+    "telefonsvsu": 728065695,
     "coordinates": {
       "latitude": 44.84739849999999,
       "longitude": 25.4434743
@@ -824,8 +818,8 @@
     "telefonprimar": 769041920,
     "Viceprimar": "Dobra Florin",
     "telefonviceprimar": 724605707,
-    "Şef SVSU": "Macamete Sorina",
-    "telefonsvsu": 787515108,
+    "Şef SVSU": "Curea Adrian",
+    "telefonsvsu": 766607668,
     "coordinates": {
       "latitude": 44.8811586,
       "longitude": 25.23422159999999
@@ -843,8 +837,8 @@
     "telefonprimar": 765363413,
     "Viceprimar": "Pîcu Ștefan Daniel",
     "telefonviceprimar": 728998906,
-    "Şef SVSU": "Radu Marilena Cătălina",
-    "telefonsvsu": 744310200,
+    "Şef SVSU": "Trandafir Dumitru",
+    "telefonsvsu": 727817313,
     "coordinates": {
       "latitude": 44.6039646,
       "longitude": 25.667795
@@ -862,8 +856,8 @@
     "telefonprimar": "0723684122/0769095900",
     "Viceprimar": "Duțescu Ion",
     "telefonviceprimar": 769095901,
-    "Şef SVSU": "Pietrăreanu Gabriel Gavrilă",
-    "telefonsvsu": "0723203902/0727661121",
+    "Şef SVSU": "Stoica Gabriel",
+    "telefonsvsu": 766637550,
     "coordinates": {
       "latitude": 45.15009180000001,
       "longitude": 25.2188608
@@ -881,8 +875,8 @@
     "telefonprimar": 723337795,
     "Viceprimar": "Tudor Iulian",
     "telefonviceprimar": 726690015,
-    "Şef SVSU": "Ciobănița Cătălin",
-    "telefonsvsu": 733687195,
+    "Şef SVSU": "Radu Nicolae",
+    "telefonsvsu": 730072325,
     "coordinates": {
       "latitude": 44.6818783,
       "longitude": 25.4049807
@@ -900,8 +894,8 @@
     "telefonprimar": 733073341,
     "Viceprimar": "Leotescu Florian",
     "telefonviceprimar": 735861188,
-    "Şef SVSU": "Gheorghe Claudiu George",
-    "telefonsvsu": 726698733,
+    "Şef SVSU": "Mihai Vasile",
+    "telefonsvsu": 724643724,
     "coordinates": {
       "latitude": 45.2090314,
       "longitude": 25.4360553
@@ -919,8 +913,8 @@
     "telefonprimar": 762277943,
     "Viceprimar": "Ion Dumitru",
     "telefonviceprimar": 737603353,
-    "Şef SVSU": "Drăghici Dumitru",
-    "telefonsvsu": 785463724,
+    "Şef SVSU": "Mihailă George Mădălin",
+    "telefonsvsu": 766359826,
     "coordinates": {
       "latitude": 44.6618139,
       "longitude": 25.2410479
@@ -938,8 +932,8 @@
     "telefonprimar": "0735857225/0721269649",
     "Viceprimar": "Nuță Luigi",
     "telefonviceprimar": 724009291,
-    "Şef SVSU": "Petre Roxana",
-    "telefonsvsu": "0723215147/0721269649",
+    "Şef SVSU": "Buzea Oana Maria",
+    "telefonsvsu": 721819401,
     "coordinates": {
       "latitude": 45.0998203,
       "longitude": 25.4165331
@@ -957,8 +951,8 @@
     "telefonprimar": 728980928,
     "Viceprimar": "Tănase Cristinel Mircea",
     "telefonviceprimar": 728628862,
-    "Şef SVSU": "Nistor Maria Magdalena",
-    "telefonsvsu": 728980956
+    "Şef SVSU": "Joiţa Nicolae",
+    "telefonsvsu": 726934657
   },
   {
     "nrcrt": 53,
@@ -972,8 +966,8 @@
     "telefonprimar": 724719009,
     "Viceprimar": "Soare Nicolae",
     "telefonviceprimar": 733322755,
-    "Şef SVSU": "Ion Marius Valentin",
-    "telefonsvsu": 731732185,
+    "Şef SVSU": "Stoean Marinela",
+    "telefonsvsu": 730798847,
     "coordinates": {
       "latitude": 44.6988217,
       "longitude": 25.4395894
@@ -991,8 +985,8 @@
     "telefonprimar": 744525210,
     "Viceprimar": "Tănase Bogdan",
     "telefonviceprimar": 726889860,
-    "Şef SVSU": "Dincă Georgeta",
-    "telefonsvsu": 722687215,
+    "Şef SVSU": "Păun Virgil",
+    "telefonsvsu": 766555396,
     "coordinates": {
       "latitude": 44.6831426,
       "longitude": 25.9457079
@@ -1008,8 +1002,8 @@
     "nrfax": 245267007,
     "Primar": "Bărboiu Luisa Marioara",
     "telefonprimar": 724502507,
-    "Şef SVSU": "Popescu Elena Claudia",
-    "telefonsvsu": 726155528,
+    "Şef SVSU": "Heaşcă Gabriel",
+    "telefonsvsu": 720991132,
     "coordinates": {
       "latitude": 44.781089,
       "longitude": 25.5460178
@@ -1029,8 +1023,8 @@
     "telefonprimar": 745664501,
     "Viceprimar": "Nedelcu Viorel",
     "telefonviceprimar": 729557069,
-    "Şef SVSU": "Vlaicu Marin",
-    "telefonsvsu": "0721205777/0735178241",
+    "Şef SVSU": "Stanciu Simică",
+    "telefonsvsu": 731356081,
     "coordinates": {
       "latitude": 44.9877782,
       "longitude": 25.5543124
@@ -1048,8 +1042,8 @@
     "telefonprimar": 729226634,
     "Viceprimar": null,
     "telefonviceprimar": null,
-    "Şef SVSU": "Anghel Vasile",
-    "telefonsvsu": "0732406121/0723252440",
+    "Şef SVSU": "Bucur Florin",
+    "telefonsvsu": 766088876,
     "coordinates": {
       "latitude": 44.6111137,
       "longitude": 25.555771
@@ -1067,8 +1061,8 @@
     "telefonprimar": "0732408244/0735197525",
     "Viceprimar": "Toma Horia",
     "telefonviceprimar": 724408242,
-    "Şef SVSU": "Gheorghe Preda Gabriela",
-    "telefonsvsu": 735197525,
+    "Şef SVSU": "Ghiţă Constantin",
+    "telefonsvsu": 735197527,
     "coordinates": {
       "latitude": 44.7970206,
       "longitude": 25.4966329
@@ -1086,8 +1080,8 @@
     "telefonprimar": 744558441,
     "Viceprimar": "Stoica Niculaie",
     "telefonviceprimar": 766260300,
-    "Şef SVSU": "Zamfirescu Mihaela",
-    "telefonsvsu": 762623808,
+    "Şef SVSU": "Andrei Silviu Alexandru",
+    "telefonsvsu": 769236711,
     "coordinates": {
       "latitude": 44.6545162,
       "longitude": 25.3361924
@@ -1105,8 +1099,8 @@
     "telefonprimar": 769041950,
     "Viceprimar": "Toader Alexandru Constantin",
     "telefonviceprimar": 725804557,
-    "Şef SVSU": "Bratu Monica Elena",
-    "telefonsvsu": 762623808,
+    "Şef SVSU": "Nedelcu Nicolae",
+    "telefonsvsu": 746087891,
     "coordinates": {
       "latitude": 45.0942519,
       "longitude": 25.2919291
@@ -1124,8 +1118,8 @@
     "telefonprimar": 723591277,
     "Viceprimar": "Secăreanu Mihai Mirel",
     "telefonviceprimar": 724177554,
-    "Şef SVSU": "Coman Mariana Claudia",
-    "telefonsvsu": 724998253
+    "Şef SVSU": "Mihăilescu Georgiana Monalisa",
+    "telefonsvsu": 723926530
   },
   {
     "nrcrt": 62,
@@ -1139,8 +1133,8 @@
     "telefonprimar": 724250880,
     "Viceprimar": "Perșinaru Ion",
     "telefonviceprimar": 721228247,
-    "Şef SVSU": "Ilie Mădălina",
-    "telefonsvsu": 741183371
+    "Şef SVSU": "Stan Ionuţ Claudiu",
+    "telefonsvsu": 762976530
   },
   {
     "nrcrt": 63,
@@ -1154,8 +1148,8 @@
     "telefonprimar": 730559651,
     "Viceprimar": "Anghel Marian",
     "telefonviceprimar": 723671168,
-    "Şef SVSU": "Bucșenaru Gabriela",
-    "telefonsvsu": 732100124,
+    "Şef SVSU": "Soare Cristian",
+    "telefonsvsu": 732100109,
     "coordinates": {
       "latitude": 44.56316589999999,
       "longitude": 25.58879689999999
@@ -1173,8 +1167,8 @@
     "telefonprimar": 785213632,
     "Viceprimar": "Ionescu George",
     "telefonviceprimar": 766564093,
-    "Şef SVSU": "Dincă Aurelia",
-    "telefonsvsu": 769022187,
+    "Şef SVSU": "Anghel Dana Tudoriţa",
+    "telefonsvsu": 763309913,
     "coordinates": {
       "latitude": 44.70771999999999,
       "longitude": 25.5133787
@@ -1192,8 +1186,8 @@
     "telefonprimar": 769684866,
     "Viceprimar": "Țîncu Gheorghe Gabriel",
     "telefonviceprimar": 723116940,
-    "Şef SVSU": "Istrătescu Carmen Elena",
-    "telefonsvsu": 733685898,
+    "Şef SVSU": "Chiţulescu Emanoil",
+    "telefonsvsu": 733685892,
     "coordinates": {
       "latitude": 45.18397239999999,
       "longitude": 25.2756064
@@ -1211,8 +1205,8 @@
     "telefonprimar": 754078955,
     "Viceprimar": "Voicu Nicolae",
     "telefonviceprimar": 754078956,
-    "Şef SVSU": "Iancu Corina Beatrice",
-    "telefonsvsu": "0766340826",
+    "Şef SVSU": "Ispas Cristian Dănuţ",
+    "telefonsvsu": "762294955/0729843077",
     "coordinates": {
       "latitude": 44.81955929999999,
       "longitude": 25.4382837
@@ -1230,8 +1224,8 @@
     "telefonprimar": 721250140,
     "Viceprimar": "Solomon Constantin",
     "telefonviceprimar": 724098520,
-    "Şef SVSU": "Marica Veronica Mihaela",
-    "telefonsvsu": 721265882
+    "Şef SVSU": "Filip Andra Cristiana",
+    "telefonsvsu": 728559332
   },
   {
     "nrcrt": 68,
@@ -1245,8 +1239,8 @@
     "telefonprimar": 763581330,
     "Viceprimar": "Moiceanu Marinela",
     "telefonviceprimar": 728640440,
-    "Şef SVSU": "Negoescu Mihăiță",
-    "telefonsvsu": 764532000,
+    "Şef SVSU": "Neculae Alina",
+    "telefonsvsu": 765936008,
     "coordinates": {
       "latitude": 45.1478727,
       "longitude": 25.3409354
@@ -1264,8 +1258,8 @@
     "telefonprimar": 766476682,
     "Viceprimar": "Coman Vasile",
     "telefonviceprimar": 766485641,
-    "Şef SVSU": "Marcu Nicoleta Maria",
-    "telefonsvsu": "0767507172/0723341054",
+    "Şef SVSU": "Nae Gheorghe",
+    "telefonsvsu": 763605592,
     "coordinates": {
       "latitude": 44.5938562,
       "longitude": 25.2637852
@@ -1283,8 +1277,8 @@
     "telefonprimar": "0737025129/0756000206",
     "Viceprimar": "Tătulescu Iulian Marian",
     "telefonviceprimar": 734332740,
-    "Şef SVSU": "Bumbănac Daniela Tatiana",
-    "telefonsvsu": 724772584,
+    "Şef SVSU": "Manolescu Bogdan Daniel",
+    "telefonsvsu": 741277519,
     "coordinates": {
       "latitude": 44.93555689999999,
       "longitude": 25.525161
@@ -1302,8 +1296,8 @@
     "telefonprimar": "0723592285/0760260922",
     "Viceprimar": "Rogojinaru Marian",
     "telefonviceprimar": "0768013556",
-    "Şef SVSU": "Pîrvu Georgeta",
-    "telefonsvsu": "0760260935",
+    "Şef SVSU": "Catană Dănuț Dumitru",
+    "telefonsvsu": "0760260943",
     "coordinates": {
       "latitude": 44.5995779,
       "longitude": 25.72661849999999
@@ -1321,8 +1315,8 @@
     "telefonprimar": 763339640,
     "Viceprimar": null,
     "telefonviceprimar": null,
-    "Şef SVSU": "Paraschiva Elena",
-    "telefonsvsu": 721255595,
+    "Şef SVSU": "Popa Nicolae",
+    "telefonsvsu": 760260877,
     "coordinates": {
       "latitude": 44.7365746,
       "longitude": 25.5708775
@@ -1340,8 +1334,8 @@
     "telefonprimar": 784240024,
     "Viceprimar": "Drăgușin Relu",
     "telefonviceprimar": 722815236,
-    "Şef SVSU": "Dragnea Emilian Petre",
-    "telefonsvsu": 784240026,
+    "Şef SVSU": "Stoica Nicolae ",
+    "telefonsvsu": 784618148,
     "coordinates": {
       "latitude": 44.4780701,
       "longitude": 25.3007819
@@ -1359,8 +1353,8 @@
     "telefonprimar": 723613523,
     "Viceprimar": "Negrea Vasile",
     "telefonviceprimar": 723337114,
-    "Şef SVSU": null,
-    "telefonsvsu": null,
+    "Şef SVSU": "Nicolae Gheorghe",
+    "telefonsvsu": 728274160,
     "coordinates": {
       "latitude": 44.9888169,
       "longitude": 25.3825428
@@ -1381,9 +1375,7 @@
     "coordinates": {
       "latitude": 44.57464230000001,
       "longitude": 25.8268153
-    },
-    "Şef SVSU": "Simionescu Ecaterina",
-    "telefonsvsu": 729911257
+    }
   },
   {
     "nrcrt": 76,
@@ -1397,8 +1389,8 @@
     "telefonprimar": 785212312,
     "Viceprimar": "Ivașcu Virginia",
     "telefonviceprimar": 785212823,
-    "Şef SVSU": "Mihăilă Mioara",
-    "telefonsvsu": 785212813,
+    "Şef SVSU": "Ştefan Sorin",
+    "telefonsvsu": 733121124,
     "coordinates": {
       "latitude": 44.99795950000001,
       "longitude": 25.276093
@@ -1416,8 +1408,8 @@
     "telefonprimar": 769774477,
     "Viceprimar": "Radu Marinel",
     "telefonviceprimar": 762604877,
-    "Şef SVSU": "Andrei Maria Camelia",
-    "telefonsvsu": 786720236,
+    "Şef SVSU": "Trandafirescu Dănuţ",
+    "telefonsvsu": 733081106,
     "coordinates": {
       "latitude": 44.5905808,
       "longitude": 25.4225077
@@ -1435,8 +1427,8 @@
     "telefonprimar": 723401544,
     "Viceprimar": "Păun Cosmin Ionuț",
     "telefonviceprimar": 726752782,
-    "Şef SVSU": "Nicolae Ana Florina",
-    "telefonsvsu": 726185848,
+    "Şef SVSU": "Popa Răzvan Adrian",
+    "telefonsvsu": 726277099,
     "coordinates": {
       "latitude": 44.8956978,
       "longitude": 25.5006073
@@ -1454,8 +1446,8 @@
     "telefonprimar": 787756793,
     "Viceprimar": "Iordache Ion",
     "telefonviceprimar": 733015759,
-    "Şef SVSU": "Manea Laura Georgiana",
-    "telefonsvsu": 731496442,
+    "Şef SVSU": "Necsoiu Florina",
+    "telefonsvsu": 733052174,
     "coordinates": {
       "latitude": 45.0696152,
       "longitude": 25.5778552
@@ -1473,8 +1465,8 @@
     "telefonprimar": 731580820,
     "Viceprimar": "Dinu Laurențiu Petruț",
     "telefonviceprimar": 765453101,
-    "Şef SVSU": "Duță Corina",
-    "telefonsvsu": 731580823,
+    "Şef SVSU": "Ştefan Daniela Georgeta",
+    "telefonsvsu": 731580821,
     "coordinates": {
       "latitude": 44.7812199,
       "longitude": 25.2398788
@@ -1492,8 +1484,8 @@
     "telefonprimar": 723522207,
     "Viceprimar": "Drăgoiescu Viorel",
     "telefonviceprimar": 722886326,
-    "Şef SVSU": "Gogioiu Alina",
-    "telefonsvsu": 720423027,
+    "Şef SVSU": "Mărăşescu Georgel",
+    "telefonsvsu": 731372973,
     "coordinates": {
       "latitude": 45.0862795,
       "longitude": 25.5032248
@@ -1530,8 +1522,8 @@
     "telefonprimar": 722345536,
     "Viceprimar": "Oprescu Aurora",
     "telefonviceprimar": 769041912,
-    "Şef SVSU": "Badea Luminița",
-    "telefonsvsu": 769041902,
+    "Şef SVSU": "Zăbavă Florin",
+    "telefonsvsu": 762279885,
     "coordinates": {
       "latitude": 45.1647544,
       "longitude": 25.1737386
@@ -1549,8 +1541,8 @@
     "telefonprimar": 734450837,
     "Viceprimar": "Papa Ionuț",
     "telefonviceprimar": 763461805,
-    "Şef SVSU": "Sultana Ștefan",
-    "telefonsvsu": 728926647,
+    "Şef SVSU": "Nemescu Virgil",
+    "telefonsvsu": 763644351,
     "coordinates": {
       "latitude": 44.5962987,
       "longitude": 25.333961
@@ -1568,8 +1560,8 @@
     "telefonprimar": 760265975,
     "Viceprimar": "Țapu Marian",
     "telefonviceprimar": 760265970,
-    "Şef SVSU": "Simionescu Daniela",
-    "telefonsvsu": 760265949,
+    "Şef SVSU": "Petrică Mihai",
+    "telefonsvsu": 760265960,
     "coordinates": {
       "latitude": 45.11066399999999,
       "longitude": 25.55246739999999
@@ -1587,8 +1579,8 @@
     "telefonprimar": 732453000,
     "Viceprimar": "Stoian Nicolae Cornel",
     "telefonviceprimar": 726150875,
-    "Şef SVSU": "Hoțescu Daniela",
-    "telefonsvsu": 729968993,
+    "Şef SVSU": "Călin Dragoş",
+    "telefonsvsu": 732254189,
     "coordinates": {
       "latitude": 44.87465249999999,
       "longitude": 25.77157009999999
@@ -1606,8 +1598,8 @@
     "telefonprimar": 723142661,
     "Viceprimar": "Popa Claudiu Constantin",
     "telefonviceprimar": 723142662,
-    "Şef SVSU": "Popescu Otilia Lidia",
-    "telefonsvsu": "0728955614",
+    "Şef SVSU": "Tache Ion Adrian",
+    "telefonsvsu": "0728985617",
     "coordinates": {
       "latitude": 45.0676771,
       "longitude": 25.25012959999999
@@ -1625,8 +1617,8 @@
     "telefonprimar": 723329838,
     "Viceprimar": "Marin Mădălina Mihaela",
     "telefonviceprimar": 724517914,
-    "Şef SVSU": "Burcă Dionisie",
-    "telefonsvsu": 747538335
+    "Şef SVSU": "Vasile Elena Roxana",
+    "telefonsvsu": 720632595
   },
   {
     "nrcrt": 89,
@@ -1640,8 +1632,8 @@
     "telefonprimar": 723136157,
     "Viceprimar": "Scîrtoaje Bogdan Constantin",
     "telefonviceprimar": 724917915,
-    "Şef SVSU": "Dumitru Roxana",
-    "telefonsvsu": 726850128,
+    "Şef SVSU": "Neacşu Georgiana",
+    "telefonsvsu": 732968192,
     "coordinates": {
       "latitude": 45.0203163,
       "longitude": 25.3983073
