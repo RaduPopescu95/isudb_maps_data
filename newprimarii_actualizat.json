@@ -1,0 +1,1655 @@
+[
+  {
+    "nrcrt": 1,
+    "numePrimarie": "TÂRGOVIŞTE",
+    "populatie": 90345,
+    "Adresa": "Str.Revoluției 1-3",
+    "demail": "primarulmunicipiuluitargoviste@pmtgv.ro",
+    "telefonprimariegeneral": "0245611222/0245217951",
+    "nrfax": 245217951,
+    "Primar": "Stan Cristian Daniel",
+    "telefonprimar": 746166610,
+    "Viceprimar": "Rădulescu Cătălin",
+    "telefonviceprimar": 731847466,
+    "Viceprimar2": "Cozma Constantin",
+    "telefonviceprimar2": 757775222,
+    "Şef SVSU": "Cristea Chiru Cătălin",
+    "telefonsvsu": 732100203,
+    "coordinates": {
+      "latitude": 44.927104,
+      "longitude": 25.4572792
+    }
+  },
+  {
+    "nrcrt": 2,
+    "numePrimarie": "MORENI",
+    "populatie": 19060,
+    "Adresa": "Str.Alexandru Ioan Cuza,nr.15",
+    "demail": "contact@primariamoreni.ro",
+    "telefonprimariegeneral": 245667265,
+    "nrfax": 245667265,
+    "Primar": "Purcaru Gabriel",
+    "telefonprimar": 743115229,
+    "Viceprimar": "Ionescu Ștefania",
+    "telefonviceprimar": 728974377,
+    "Şef SVSU": "Popescu Carmen",
+    "telefonsvsu": 749147420
+  },
+  {
+    "nrcrt": 3,
+    "numePrimarie": "FIENI",
+    "populatie": 7262,
+    "Adresa": "Str.ing.Aurel Rainu, nr.67",
+    "demail": "fieni.primaria@gmail.com/primaria.fieni@fieni.ro",
+    "telefonprimariegeneral": 245774070,
+    "nrfax": 245774073,
+    "Primar": "Tătulescu Iulian",
+    "telefonprimar": 786719819,
+    "Viceprimar": "Tudose Vasile",
+    "telefonviceprimar": 723583163,
+    "Şef SVSU": "Zahariuc Mariana",
+    "telefonsvsu": 723514692,
+    "coordinates": {
+      "latitude": 45.12710120000001,
+      "longitude": 25.4198238
+    }
+  },
+  {
+    "nrcrt": 4,
+    "numePrimarie": "GĂEŞTI",
+    "populatie": 14646,
+    "Adresa": "Str.13 Decembrie 102A",
+    "demail": "primaria.gaesti@yahoo.com",
+    "telefonprimariegeneral": 245606281,
+    "nrfax": 245606085,
+    "Primar": "Iorga Grigore Alexandru",
+    "telefonprimar": 758888824,
+    "Viceprimar": "Dumitrescu Constantin",
+    "telefonviceprimar": 723300296,
+    "Şef SVSU": "Diaconu Mitică",
+    "telefonsvsu": 724339738,
+    "coordinates": {
+      "latitude": 44.7167216,
+      "longitude": 25.32786129999999
+    }
+  },
+  {
+    "nrcrt": 5,
+    "numePrimarie": "PUCIOASA",
+    "populatie": 14690,
+    "Adresa": "Str.Fântânelor, nr.7",
+    "demail": "info@primpuc.ro",
+    "telefonprimariegeneral": 245232277,
+    "nrfax": 245760484,
+    "Primar": "Ana Constantin Emilian",
+    "telefonprimar": 722626781,
+    "Viceprimar": "Ianeț Constantin",
+    "telefonviceprimar": 726123651,
+    "Şef SVSU": "Catană Elena",
+    "telefonsvsu": 723185668,
+    "coordinates": {
+      "latitude": 45.07749870000001,
+      "longitude": 25.4324889
+    }
+  },
+  {
+    "nrcrt": 6,
+    "numePrimarie": "RĂCARI",
+    "populatie": 6200,
+    "Adresa": "Str.Ana Ipătescu nr.155",
+    "demail": "contact@primariaracari.ro",
+    "telefonprimariegeneral": 245658611,
+    "nrfax": 245658070,
+    "Primar": "Caravețeanu Marius",
+    "telefonprimar": 744666568,
+    "Viceprimar": "Tănase Vasile Mugurel",
+    "telefonviceprimar": 752110158,
+    "Şef SVSU": "Ene Octavia",
+    "telefonsvsu": 745349708,
+    "coordinates": {
+      "latitude": 44.625587,
+      "longitude": 25.744829
+    }
+  },
+  {
+    "nrcrt": 7,
+    "numePrimarie": "TITU",
+    "populatie": 10050,
+    "Adresa": "Str.Nicolae Grigorescu, nr.1",
+    "demail": "primariatitu@yahoo.com",
+    "telefonprimariegeneral": 245651095,
+    "nrfax": 245651097,
+    "Primar": "Costache Ionuț Laurențiu",
+    "telefonprimar": 766315069,
+    "Viceprimar": null,
+    "telefonviceprimar": null,
+    "coordinates": {
+      "latitude": 44.66053369999999,
+      "longitude": 25.5741065
+    },
+    "Şef SVSU": "Grigore Anuța Camelia",
+    "telefonsvsu": 728995359
+  },
+  {
+    "nrcrt": 8,
+    "numePrimarie": "ANINOASA",
+    "populatie": 6340,
+    "Adresa": "Str.Libertății, nr.85",
+    "demail": "contact@primariaaninoasa.ro/relatii@primariaaninoasa.ro",
+    "telefonprimariegeneral": 245226214,
+    "nrfax": 245226533,
+    "Primar": "Niculae Vlăduț",
+    "telefonprimar": 737016183,
+    "Şef SVSU": "Petrescu Cristina Elena",
+    "telefonsvsu": "0787582993",
+    "Viceprimar": "Coman Valentin",
+    "telefonviceprimar": 720185588
+  },
+  {
+    "nrcrt": 9,
+    "numePrimarie": "BEZDEAD",
+    "populatie": 4276,
+    "Adresa": "Str.Principală",
+    "demail": "primaria_bezdead@yahoo.com",
+    "telefonprimariegeneral": 245663011,
+    "nrfax": 245663011,
+    "Primar": "Anghelescu Teodora",
+    "telefonprimar": 728871843,
+    "Viceprimar": "Cojanu Ion",
+    "telefonviceprimar": 728871844,
+    "Şef SVSU": "Davidoiu Ionuț",
+    "telefonsvsu": 737852457,
+    "coordinates": {
+      "latitude": 45.1410106,
+      "longitude": 25.49735919999999
+    }
+  },
+  {
+    "nrcrt": 10,
+    "numePrimarie": "BILCIUREŞTI",
+    "populatie": 1896,
+    "Adresa": "Str.Principală, nr.201",
+    "demail": "primaria.bilciuresti@gmail.com",
+    "telefonprimariegeneral": 245671331,
+    "nrfax": 245671331,
+    "Primar": "Stoican Adina",
+    "telefonprimar": "0762271039/0786720332",
+    "Viceprimar": "Burlacu Nicoleta Loredana",
+    "telefonviceprimar": 766305353,
+    "Şef SVSU": "Stanciu Violeta",
+    "telefonsvsu": 760674483,
+    "coordinates": {
+      "latitude": 44.7508266,
+      "longitude": 25.7992388
+    }
+  },
+  {
+    "nrcrt": 11,
+    "numePrimarie": "BRANIŞTEA",
+    "populatie": 3883,
+    "Adresa": "Sat Braniștea",
+    "demail": "primaria.branistea@yahoo.com",
+    "telefonprimariegeneral": 245715196,
+    "nrfax": 245715031,
+    "Primar": "Vișinescu Mihai",
+    "telefonprimar": 769495411,
+    "Viceprimar": "Olteanu Vasile Viorica",
+    "telefonviceprimar": 766651280,
+    "Şef SVSU": "Durla Simona Mariana",
+    "telefonsvsu": 744489835
+  },
+  {
+    "nrcrt": 12,
+    "numePrimarie": "BREZOAELE",
+    "populatie": 3430,
+    "Adresa": "Sat Brezoaele,str.Principală,nr.24",
+    "demail": "primaria_brezoaele@yahoo.com",
+    "telefonprimariegeneral": 245715601,
+    "nrfax": 245715689,
+    "Primar": "Florea Ion",
+    "telefonprimar": 728908425,
+    "Viceprimar": "Zamfir Marin",
+    "telefonviceprimar": 724357770,
+    "Şef SVSU": "Sandu Nineta",
+    "telefonsvsu": 760260817,
+    "coordinates": {
+      "latitude": 44.5740554,
+      "longitude": 25.7543097
+    }
+  },
+  {
+    "nrcrt": 13,
+    "numePrimarie": "BRĂNEŞTI",
+    "populatie": 4085,
+    "Adresa": "Str.Principală,nr.221",
+    "demail": "primaria.branesti@yahoo.com",
+    "telefonprimariegeneral": 245231275,
+    "nrfax": 245231275,
+    "Primar": "Neamțu Daniel",
+    "telefonprimar": 787611317,
+    "Viceprimar": "Diaconescu Mihail Adrian",
+    "telefonviceprimar": 785751408,
+    "Şef SVSU": "Oprea Florentina",
+    "telefonsvsu": 730623502
+  },
+  {
+    "nrcrt": 14,
+    "numePrimarie": "BUCIUMENI",
+    "populatie": 4239,
+    "Adresa": "Sat Buciumeni,nr.293",
+    "demail": "primariabuciumeni@yahoo.com",
+    "telefonprimariegeneral": 245777002,
+    "nrfax": 245777233,
+    "Primar": "Pavel Ion",
+    "telefonprimar": 722775956,
+    "Viceprimar": "Grigoroiu Adrian",
+    "telefonviceprimar": 735881847,
+    "Şef SVSU": "Stancu Melania Carmen",
+    "telefonsvsu": 722550667,
+    "coordinates": {
+      "latitude": 45.1588785,
+      "longitude": 25.4562144
+    }
+  },
+  {
+    "nrcrt": 15,
+    "numePrimarie": "BUCŞANI",
+    "populatie": 6647,
+    "Adresa": "Sat Bucșani,str.Principală,nr.1228",
+    "demail": "primaria.bucsani@gmail.com",
+    "telefonprimariegeneral": 245235041,
+    "nrfax": 245235041,
+    "Primar": "Șuțoiu Valentin",
+    "telefonprimar": 724543280,
+    "Viceprimar": "Mihai Ionuț-Valentin",
+    "telefonviceprimar": 724020881,
+    "Şef SVSU": "Rotaru Adrian",
+    "telefonsvsu": 724360841,
+    "coordinates": {
+      "latitude": 44.8657639,
+      "longitude": 25.6444229
+    }
+  },
+  {
+    "nrcrt": 16,
+    "numePrimarie": "BUTIMANU",
+    "populatie": 2277,
+    "Adresa": "Str.FN,NR.335",
+    "demail": "primariabutimanu@gmail.com",
+    "telefonprimariegeneral": 245241040,
+    "nrfax": 245241040,
+    "Primar": "Dragnea Cezar Gabriel",
+    "telefonprimar": 744304848,
+    "Viceprimar": "Dumitru Ion",
+    "telefonviceprimar": 745200090,
+    "Şef SVSU": "Iamandi Constantin",
+    "telefonsvsu": 757072245,
+    "coordinates": {
+      "latitude": 44.6918344,
+      "longitude": 25.8792574
+    }
+  },
+  {
+    "nrcrt": 17,
+    "numePrimarie": "BĂLENI",
+    "populatie": 8672,
+    "Adresa": "Str. București-Târgoviște,73,Băleni-Sârbi",
+    "demail": "primaria_baleni@yahoo.com",
+    "telefonprimariegeneral": 245265004,
+    "nrfax": 245265200,
+    "Primar": "Dumitru Florin",
+    "telefonprimar": 723698095,
+    "Viceprimar": "Ilie Gelu",
+    "telefonviceprimar": 724549362,
+    "Şef SVSU": "Bucur Anamaria",
+    "telefonsvsu": 721356892,
+    "coordinates": {
+      "latitude": 44.8175255,
+      "longitude": 25.6593638
+    }
+  },
+  {
+    "nrcrt": 18,
+    "numePrimarie": "BĂRBULEŢU",
+    "populatie": 2080,
+    "Adresa": "Str. Gura Bărbulețului,nr.104",
+    "demail": "primariacomunabarbuletu@gmail.com",
+    "telefonprimariegeneral": 372729633,
+    "nrfax": 245240888,
+    "Primar": "Alexe Marian",
+    "telefonprimar": 728016293,
+    "Viceprimar": "Dumitra Ion",
+    "telefonviceprimar": 766599629,
+    "Şef SVSU": "Tănase Violeta",
+    "telefonsvsu": 746234993,
+    "coordinates": {
+      "latitude": 45.1151823,
+      "longitude": 25.30192409999999
+    }
+  },
+  {
+    "nrcrt": 19,
+    "numePrimarie": "CÂNDEŞTI",
+    "populatie": 2625,
+    "Adresa": "Sat Cândești Vale",
+    "demail": "candesti_dambovita@yahoo.com",
+    "telefonprimariegeneral": 245240123,
+    "nrfax": 245240123,
+    "Primar": "Tudose Alexandru",
+    "telefonprimar": 760294119,
+    "Viceprimar": "Popa Gabriel",
+    "telefonviceprimar": 786289288,
+    "Şef SVSU": "Paraschiv Gabriela",
+    "telefonsvsu": 727073027,
+    "coordinates": {
+      "latitude": 45.0834933,
+      "longitude": 25.2201241
+    }
+  },
+  {
+    "nrcrt": 20,
+    "numePrimarie": "CIOCĂNEŞTI",
+    "populatie": 5181,
+    "Adresa": "Str.Cantacuzino,nr.79",
+    "demail": "primaria_ciocanesti@yahoo.co.in",
+    "telefonprimariegeneral": 245261336,
+    "nrfax": 245891530,
+    "Primar": "Nilă Ion Ciprian",
+    "telefonprimar": 765625581,
+    "Viceprimar": "Tudoran Marian George",
+    "telefonviceprimar": 721242468,
+    "Şef SVSU": "Mânzu Viorica",
+    "telefonsvsu": 733058235,
+    "coordinates": {
+      "latitude": 44.601451,
+      "longitude": 25.874985
+    }
+  },
+  {
+    "nrcrt": 21,
+    "numePrimarie": "COBIA",
+    "populatie": 2897,
+    "Adresa": "Str.Principală",
+    "demail": "cobiadambovita@yahoo.com",
+    "telefonprimariegeneral": 245708998,
+    "nrfax": 245708998,
+    "Primar": "Manda Marin",
+    "telefonprimar": "0723352017/0731373063",
+    "Viceprimar": "Alecu Valeriu",
+    "telefonviceprimar": 731373064,
+    "Şef SVSU": "Neagu Daniela",
+    "telefonsvsu": 722407386,
+    "coordinates": {
+      "latitude": 44.79589379999999,
+      "longitude": 25.33821709999999
+    }
+  },
+  {
+    "nrcrt": 22,
+    "numePrimarie": "COJASCA",
+    "populatie": 9221,
+    "Adresa": "Str.Principală,nr.277",
+    "demail": "primar@primariacojasca.ro",
+    "telefonprimariegeneral": 245671565,
+    "nrfax": 245671565,
+    "Primar": "Bâmboi Marcel",
+    "telefonprimar": 723325516,
+    "Viceprimar": "Nicolae Micu",
+    "telefonviceprimar": 726127891,
+    "Şef SVSU": "Cîrstina Maria",
+    "telefonsvsu": 726611533,
+    "coordinates": {
+      "latitude": 44.72352089999999,
+      "longitude": 25.84934359999999
+    }
+  },
+  {
+    "nrcrt": 23,
+    "numePrimarie": "COMIŞANI",
+    "populatie": 5071,
+    "Adresa": "Str.Suseni,nr.221",
+    "demail": "primaria_comisani@yahoo.com",
+    "telefonprimariegeneral": 245263017,
+    "nrfax": 245263017,
+    "Primar": "Bătrânu Ion",
+    "telefonprimar": 728958570,
+    "Viceprimar": "Badea Constantin",
+    "telefonviceprimar": 724998158,
+    "Şef SVSU": "Brașoveanu Elena Daniela",
+    "telefonsvsu": 723372574,
+    "coordinates": {
+      "latitude": 44.8712328,
+      "longitude": 25.5837979
+    }
+  },
+  {
+    "nrcrt": 24,
+    "numePrimarie": "CONŢEŞTI",
+    "populatie": 4359,
+    "Adresa": "Str.Primăriei,nr.456",
+    "demail": "contact@primariacontesti.ro",
+    "telefonprimariegeneral": 245241391,
+    "nrfax": 245241391,
+    "Primar": "Alexandru Marian Nicolae",
+    "telefonprimar": 743691041,
+    "Viceprimar": "Alexandrescu Georgeta Corina",
+    "telefonviceprimar": 786047970,
+    "Şef SVSU": "Nistor Mariana",
+    "telefonsvsu": 786437921,
+    "coordinates": {
+      "latitude": 44.6822427,
+      "longitude": 25.639446
+    }
+  },
+  {
+    "nrcrt": 25,
+    "numePrimarie": "CORBII MARI",
+    "populatie": 8036,
+    "Adresa": "Str.Primăriei,nr.6",
+    "demail": "primaria_cm@yahoo.com",
+    "telefonprimariegeneral": 245716191,
+    "nrfax": 245716191,
+    "Primar": "Bănică Ionuț",
+    "telefonprimar": 799777707,
+    "Viceprimar": "Miu Iulian",
+    "telefonviceprimar": 731354419,
+    "Şef SVSU": "Săndulescu Mihaela",
+    "telefonsvsu": 723434088
+  },
+  {
+    "nrcrt": 26,
+    "numePrimarie": "CORNEŞTI",
+    "populatie": 5955,
+    "Adresa": "Calea Ploiești,nr.4",
+    "demail": "cornesti@cjd.ro",
+    "telefonprimariegeneral": 245241654,
+    "nrfax": 245732829,
+    "Primar": "Guță Bogdan Gheorghe",
+    "telefonprimar": 738574851,
+    "Viceprimar": "Ioviță Gheorghe",
+    "telefonviceprimar": 743053239,
+    "Şef SVSU": "Stan Gheorghița",
+    "telefonsvsu": 734117302,
+    "coordinates": {
+      "latitude": 44.7887916,
+      "longitude": 25.8801083
+    }
+  },
+  {
+    "nrcrt": 27,
+    "numePrimarie": "CORNĂŢELU",
+    "populatie": 1336,
+    "Adresa": "Str.Primăriei,nr.37",
+    "demail": "cornateluprimaria@yahoo.com/primariacornatelu@yahoo.com",
+    "telefonprimariegeneral": 371332739,
+    "Primar": "Ivan Florin Nelu",
+    "telefonprimar": 725897632,
+    "Viceprimar": "Spînu Florin Costel",
+    "telefonviceprimar": 723226318,
+    "Şef SVSU": "Staicu Adrian",
+    "telefonsvsu": 723334620,
+    "coordinates": {
+      "latitude": 44.7482795,
+      "longitude": 25.6717981
+    }
+  },
+  {
+    "nrcrt": 28,
+    "numePrimarie": "COSTEŞTII DIN VALE",
+    "populatie": 3418,
+    "Adresa": "Str.Principală",
+    "demail": "d.primariacostestivale@yahoo.com",
+    "telefonprimariegeneral": 245717025,
+    "nrfax": 245717212,
+    "Primar": "Duna Valentin Zsolt",
+    "telefonprimar": 720419721,
+    "Viceprimar": "Oprea Zoie Iuliana",
+    "telefonviceprimar": 767527073,
+    "Şef SVSU": "Popescu Niță Adrian",
+    "telefonsvsu": 720789717,
+    "coordinates": {
+      "latitude": 44.6491681,
+      "longitude": 25.4897067
+    }
+  },
+  {
+    "nrcrt": 29,
+    "numePrimarie": "CREVEDIA",
+    "populatie": 5939,
+    "Adresa": "Șos.București-Târgoviște,1",
+    "demail": "primarie@primariacrevedia.ro",
+    "telefonprimariegeneral": 245241840,
+    "nrfax": 245241840,
+    "Primar": "Petre Florin",
+    "telefonprimar": 745254357,
+    "Viceprimar": null,
+    "telefonviceprimar": null,
+    "Şef SVSU": "Stancu Virginia Olimpia",
+    "telefonsvsu": 723612136,
+    "coordinates": {
+      "latitude": 44.6003664,
+      "longitude": 25.9160105
+    }
+  },
+  {
+    "nrcrt": 30,
+    "numePrimarie": "CRÂNGURILE",
+    "populatie": 3627,
+    "Adresa": "Str.Principală,nr.225",
+    "demail": "crangurile@cjd.ro",
+    "telefonprimariegeneral": 245714015,
+    "nrfax": 245714015,
+    "Primar": "Barbu Costin Ionuț",
+    "telefonprimar": 765663535,
+    "Viceprimar": "Dumitru Alexandru Constantin",
+    "telefonviceprimar": 764320284,
+    "Şef SVSU": "Alexandru George Gabriel",
+    "telefonsvsu": 723334046,
+    "coordinates": {
+      "latitude": 44.7617667,
+      "longitude": 25.2633463
+    }
+  },
+  {
+    "nrcrt": 31,
+    "numePrimarie": "DOBRA",
+    "populatie": 3470,
+    "Adresa": "Str.Piața Victoriei,nr.1",
+    "demail": "primariadobra@comunadobra.ro/svsu@comunadobra.ro",
+    "telefonprimariegeneral": 245283241,
+    "nrfax": 245242188,
+    "Primar": "Nica Daniel Cosmin",
+    "telefonprimar": 771353483,
+    "Viceprimar": "Toica Gheorghe",
+    "telefonviceprimar": 724274184,
+    "Şef SVSU": "Andronache Marian",
+    "telefonsvsu": 728329162,
+    "coordinates": {
+      "latitude": 44.78564979999999,
+      "longitude": 25.7164184
+    }
+  },
+  {
+    "nrcrt": 32,
+    "numePrimarie": "DOICEŞTI",
+    "populatie": 4662,
+    "Adresa": "Aleea Sinaia,nr.124",
+    "demail": "doicesti@cjd.ro",
+    "telefonprimariegeneral": 245227023,
+    "nrfax": 245227506,
+    "Primar": "Stana Cozmin Petruț",
+    "telefonprimar": 724365710,
+    "Viceprimar": "Ismail Alin Mircea",
+    "telefonviceprimar": 741036236,
+    "Şef SVSU": "Chițu Emilia",
+    "telefonsvsu": 741176689,
+    "coordinates": {
+      "latitude": 44.9963818,
+      "longitude": 25.4004012
+    }
+  },
+  {
+    "nrcrt": 33,
+    "numePrimarie": "DRAGODANA",
+    "populatie": 6592,
+    "Adresa": "Str.Principală,nr.103",
+    "demail": "pr_dragodana@yahoo.com",
+    "telefonprimariegeneral": 245719189,
+    "nrfax": 245719491,
+    "Primar": "Sandu Gheorghe",
+    "telefonprimar": 723207038,
+    "Viceprimar": "Mihalache Laurențiu Florin",
+    "telefonviceprimar": 762736932,
+    "Şef SVSU": "Ștefan Raluca Mariana",
+    "telefonsvsu": 745659228,
+    "coordinates": {
+      "latitude": 44.7321172,
+      "longitude": 25.3639914
+    }
+  },
+  {
+    "nrcrt": 34,
+    "numePrimarie": "DRAGOMIREŞTI",
+    "populatie": 8945,
+    "Adresa": "Dragomirești",
+    "demail": "primăria@dragomirestidambovita.ro",
+    "telefonprimariegeneral": 245236020,
+    "nrfax": 245236020,
+    "Primar": "Vlădulescu Dragoș",
+    "telefonprimar": 726380410,
+    "Viceprimar": "Marian Titu Vasile",
+    "telefonviceprimar": 733926678,
+    "Şef SVSU": "Dițescu Georgiana",
+    "telefonsvsu": "0724575740/0733925679",
+    "coordinates": {
+      "latitude": 44.9146556,
+      "longitude": 25.3405365
+    }
+  },
+  {
+    "nrcrt": 35,
+    "numePrimarie": "DĂRMĂNEŞTI",
+    "populatie": 4639,
+    "Adresa": "Str.Mihai Viteazu,nr.530",
+    "demail": "primaria.darmanesti@yahoo.com",
+    "telefonprimariegeneral": 245661306,
+    "nrfax": 245661306,
+    "Primar": "Mihalache Valentin",
+    "telefonprimar": 723658512,
+    "Viceprimar": "Boulescu Ion Gheorghe",
+    "telefonviceprimar": 751966439,
+    "Şef SVSU": "Slotea Ana Maria",
+    "telefonsvsu": 766527943,
+    "coordinates": {
+      "latitude": 44.9171138,
+      "longitude": 25.76540989999999
+    }
+  },
+  {
+    "nrcrt": 36,
+    "numePrimarie": "FINTA",
+    "populatie": 3909,
+    "Adresa": "Str.Eroilor,nr.1",
+    "demail": "primariafinta@yahoo.com",
+    "telefonprimariegeneral": 245242495,
+    "nrfax": 245242495,
+    "Primar": "Oprea Florentin",
+    "telefonprimar": 786095800,
+    "Viceprimar": null,
+    "telefonviceprimar": null,
+    "Şef SVSU": "Pred Rodica",
+    "telefonsvsu": 724256949,
+    "coordinates": {
+      "latitude": 44.7909194,
+      "longitude": 25.7905723
+    }
+  },
+  {
+    "nrcrt": 37,
+    "numePrimarie": "GLODENI",
+    "populatie": 4095,
+    "Adresa": "Str.Principală,nr.133",
+    "demail": "primarglodeni@gmail.com",
+    "telefonprimariegeneral": 245228303,
+    "nrfax": 245228348,
+    "Primar": "Chiran Gheorghe",
+    "telefonprimar": 747114301,
+    "Viceprimar": "Mădăran Adrian",
+    "telefonviceprimar": "0729962835/0751270935",
+    "Şef SVSU": "Moraru Daniela",
+    "telefonsvsu": 751027038,
+    "coordinates": {
+      "latitude": 45.0188506,
+      "longitude": 25.4637914
+    }
+  },
+  {
+    "nrcrt": 38,
+    "numePrimarie": "GURA FOII",
+    "populatie": 2211,
+    "Adresa": "DC 112-Gura Foii",
+    "demail": "primariagurafoii_db@yahoo.com",
+    "telefonprimariegeneral": 245711586,
+    "nrfax": 245708015,
+    "Primar": "Georgescu Radu-Nicolae",
+    "telefonprimar": 766242239,
+    "Viceprimar": "Uță Cătălin Aurelian",
+    "telefonviceprimar": 729905985,
+    "Şef SVSU": "Coman Alina Elena",
+    "telefonsvsu": 769041944,
+    "coordinates": {
+      "latitude": 44.7478843,
+      "longitude": 25.2899159
+    }
+  },
+  {
+    "nrcrt": 39,
+    "numePrimarie": "GURA OCNIŢEI",
+    "populatie": 7032,
+    "Adresa": "Str.Principală,nr.180",
+    "demail": "primariaguraocnitei@yahoo.com",
+    "telefonprimariegeneral": 245673260,
+    "nrfax": 245673532,
+    "Primar": "Vasilescu Liviu Cosmin",
+    "telefonprimar": 722654028,
+    "Viceprimar": null,
+    "telefonviceprimar": null,
+    "Şef SVSU": "Ilie Mihai Valentin",
+    "telefonsvsu": 730453879,
+    "coordinates": {
+      "latitude": 44.94352139999999,
+      "longitude": 25.5632611
+    }
+  },
+  {
+    "nrcrt": 40,
+    "numePrimarie": "GURA ŞUŢII",
+    "populatie": 5208,
+    "Adresa": "Str.Principală",
+    "demail": "primariagurasutii@yahoo.com",
+    "telefonprimariegeneral": 245682259,
+    "nrfax": 245682259,
+    "Primar": "Dinu Marian",
+    "telefonprimar": 731991640,
+    "Viceprimar": "Stoica Stan",
+    "telefonviceprimar": 785240533,
+    "coordinates": {
+      "latitude": 44.75386589999999,
+      "longitude": 25.50005059999999
+    },
+    "Şef SVSU": "Olteanu Dumitru",
+    "telefonsvsu": 785240538
+  },
+  {
+    "nrcrt": 41,
+    "numePrimarie": "HULUBEŞTI",
+    "populatie": 3095,
+    "Adresa": "Str.Principală,Hulubești",
+    "demail": "primaria.hulubesti@yahoo.com",
+    "telefonprimariegeneral": 245708600,
+    "nrfax": 245708600,
+    "Primar": "Cursureanu Ion",
+    "telefonprimar": 766695567,
+    "Viceprimar": "Nemișanu Robert Constantin",
+    "telefonviceprimar": 767289596,
+    "Şef SVSU": "Ciobăniță Andreea Raluca",
+    "telefonsvsu": 743121290,
+    "coordinates": {
+      "latitude": 44.8437972,
+      "longitude": 25.2518042
+    }
+  },
+  {
+    "nrcrt": 42,
+    "numePrimarie": "I.L.CARAGIALE",
+    "populatie": 6663,
+    "Adresa": "Str.Principală,nr.1196",
+    "demail": "primariacaragiale@gmail.com",
+    "telefonprimariegeneral": 245660332,
+    "nrfax": 245660423,
+    "Primar": "Năstase Adrian",
+    "telefonprimar": 732733920,
+    "Viceprimar": "Trifescu Marian Alexandru",
+    "telefonviceprimar": 727168409,
+    "Şef SVSU": "Mihalcea Nicoleta",
+    "telefonsvsu": 728491124
+  },
+  {
+    "nrcrt": 43,
+    "numePrimarie": "IEDERA",
+    "populatie": 3899,
+    "Adresa": "Sat Iedera de Jos,nr.299",
+    "demail": "primaria.iedera@yahoo.com",
+    "telefonprimariegeneral": 245662018,
+    "nrfax": 245662270,
+    "Primar": "Stoica Cristian",
+    "telefonprimar": "0732740963",
+    "Viceprimar": "Ștefan Aurel",
+    "telefonviceprimar": "0747015875",
+    "coordinates": {
+      "latitude": 45.0283565,
+      "longitude": 25.63481209999999
+    },
+    "Şef SVSU": "Șandru Antonio",
+    "telefonsvsu": 722376797
+  },
+  {
+    "nrcrt": 44,
+    "numePrimarie": "LUCIENI",
+    "populatie": 2901,
+    "Adresa": "Str.Principală,nr.779",
+    "demail": "primaria_lucieni@yahoo.com",
+    "telefonprimariegeneral": 245242530,
+    "nrfax": 245242530,
+    "Primar": "Tița Vasile",
+    "telefonprimar": 720292322,
+    "Viceprimar": "Băjenaru Emil Cornel",
+    "telefonviceprimar": 799185850,
+    "Şef SVSU": "Lejan Luminița",
+    "telefonsvsu": 724774411,
+    "coordinates": {
+      "latitude": 44.84739849999999,
+      "longitude": 25.4434743
+    }
+  },
+  {
+    "nrcrt": 45,
+    "numePrimarie": "LUDEŞTI",
+    "populatie": 5068,
+    "Adresa": "Str.Principală",
+    "demail": "secretariat@primarialudesti.ro",
+    "telefonprimariegeneral": 345527186,
+    "nrfax": 345527186,
+    "Primar": "Dincă Laurențiu Mihail",
+    "telefonprimar": 769041920,
+    "Viceprimar": "Dobra Florin",
+    "telefonviceprimar": 724605707,
+    "Şef SVSU": "Macamete Sorina",
+    "telefonsvsu": 787515108,
+    "coordinates": {
+      "latitude": 44.8811586,
+      "longitude": 25.23422159999999
+    }
+  },
+  {
+    "nrcrt": 46,
+    "numePrimarie": "LUNGULEŢU",
+    "populatie": 5277,
+    "Adresa": "Lungulețu",
+    "demail": "lunguletu_primaria@yahoo.com",
+    "telefonprimariegeneral": 245717502,
+    "nrfax": 245717434,
+    "Primar": "Duțu George",
+    "telefonprimar": 765363413,
+    "Viceprimar": "Pîcu Ștefan Daniel",
+    "telefonviceprimar": 728998906,
+    "Şef SVSU": "Radu Marilena Cătălina",
+    "telefonsvsu": 744310200,
+    "coordinates": {
+      "latitude": 44.6039646,
+      "longitude": 25.667795
+    }
+  },
+  {
+    "nrcrt": 47,
+    "numePrimarie": "MALU CU FLORI",
+    "populatie": 2137,
+    "Adresa": "Malu cu Flori",
+    "demail": "primaria.malu@yahoo.com",
+    "telefonprimariegeneral": 245670114,
+    "nrfax": 245670114,
+    "Primar": "Constantin Ion",
+    "telefonprimar": "0723684122/0769095900",
+    "Viceprimar": "Duțescu Ion",
+    "telefonviceprimar": 769095901,
+    "Şef SVSU": "Pietrăreanu Gabriel Gavrilă",
+    "telefonsvsu": "0723203902/0727661121",
+    "coordinates": {
+      "latitude": 45.15009180000001,
+      "longitude": 25.2188608
+    }
+  },
+  {
+    "nrcrt": 48,
+    "numePrimarie": "MOGOŞANI",
+    "populatie": 4199,
+    "Adresa": "Mogoșani",
+    "demail": "prmogosani@yahoo.com",
+    "telefonprimariegeneral": 345505220,
+    "nrfax": 345505220,
+    "Primar": "Tuță Nicolae",
+    "telefonprimar": 723337795,
+    "Viceprimar": "Tudor Iulian",
+    "telefonviceprimar": 726690015,
+    "Şef SVSU": "Ciobănița Cătălin",
+    "telefonsvsu": 733687195,
+    "coordinates": {
+      "latitude": 44.6818783,
+      "longitude": 25.4049807
+    }
+  },
+  {
+    "nrcrt": 49,
+    "numePrimarie": "MOROENI",
+    "populatie": 5025,
+    "Adresa": "Sat Lunca,Str.Principală,nr.152",
+    "demail": "registratura@primariamoroeni.ro/dpo@primariamoroeni.ro",
+    "telefonprimariegeneral": 245772213,
+    "nrfax": 245772084,
+    "Primar": "Moraru Mihai Laurențiu",
+    "telefonprimar": 733073341,
+    "Viceprimar": "Leotescu Florian",
+    "telefonviceprimar": 735861188,
+    "Şef SVSU": "Gheorghe Claudiu George",
+    "telefonsvsu": 726698733,
+    "coordinates": {
+      "latitude": 45.2090314,
+      "longitude": 25.4360553
+    }
+  },
+  {
+    "nrcrt": 50,
+    "numePrimarie": "MORTENI",
+    "populatie": 2642,
+    "Adresa": "Morteni",
+    "demail": "primariamorteni2016@yahoo.com",
+    "telefonprimariegeneral": "0245242714/0245242707",
+    "nrfax": "0245242714/0245242707",
+    "Primar": "Olteanu Lalu Ionel",
+    "telefonprimar": 762277943,
+    "Viceprimar": "Ion Dumitru",
+    "telefonviceprimar": 737603353,
+    "Şef SVSU": "Drăghici Dumitru",
+    "telefonsvsu": 785463724,
+    "coordinates": {
+      "latitude": 44.6618139,
+      "longitude": 25.2410479
+    }
+  },
+  {
+    "nrcrt": 51,
+    "numePrimarie": "MOŢĂIENI",
+    "populatie": 1936,
+    "Adresa": "Str.Principală,nr.132",
+    "demail": "relatii@primariamotaieni.ro",
+    "telefonprimariegeneral": 245232031,
+    "nrfax": 245232031,
+    "Primar": "Iordache Florin",
+    "telefonprimar": "0735857225/0721269649",
+    "Viceprimar": "Nuță Luigi",
+    "telefonviceprimar": 724009291,
+    "Şef SVSU": "Petre Roxana",
+    "telefonsvsu": "0723215147/0721269649",
+    "coordinates": {
+      "latitude": 45.0998203,
+      "longitude": 25.4165331
+    }
+  },
+  {
+    "nrcrt": 52,
+    "numePrimarie": "MĂNEŞTI",
+    "populatie": 5380,
+    "Adresa": "Str.Principală,nr.1,Mănești",
+    "demail": "contact@comunamanestidb.ro",
+    "telefonprimariegeneral": 245732011,
+    "nrfax": 245732159,
+    "Primar": "Alexandru Constantin",
+    "telefonprimar": 728980928,
+    "Viceprimar": "Tănase Cristinel Mircea",
+    "telefonviceprimar": 728628862,
+    "Şef SVSU": "Nistor Maria Magdalena",
+    "telefonsvsu": 728980956
+  },
+  {
+    "nrcrt": 53,
+    "numePrimarie": "MĂTĂSARU",
+    "populatie": 4936,
+    "Adresa": "Mătasaru",
+    "demail": "primariamata_DB@yahoo.com",
+    "telefonprimariegeneral": 371180506,
+    "nrfax": 372252117,
+    "Primar": "Dumitru Constantin Robert",
+    "telefonprimar": 724719009,
+    "Viceprimar": "Soare Nicolae",
+    "telefonviceprimar": 733322755,
+    "Şef SVSU": "Ion Marius Valentin",
+    "telefonsvsu": 731732185,
+    "coordinates": {
+      "latitude": 44.6988217,
+      "longitude": 25.4395894
+    }
+  },
+  {
+    "nrcrt": 54,
+    "numePrimarie": "NICULEŞTI",
+    "populatie": 4183,
+    "Adresa": "Str.Principală,Niculești",
+    "demail": "primaria@niculesti.ro",
+    "telefonprimariegeneral": 212670606,
+    "nrfax": 212670606,
+    "Primar": "Soare Dorinel",
+    "telefonprimar": 744525210,
+    "Viceprimar": "Tănase Bogdan",
+    "telefonviceprimar": 726889860,
+    "Şef SVSU": "Dincă Georgeta",
+    "telefonsvsu": 722687215,
+    "coordinates": {
+      "latitude": 44.6831426,
+      "longitude": 25.9457079
+    }
+  },
+  {
+    "nrcrt": 55,
+    "numePrimarie": "NUCET",
+    "populatie": 4247,
+    "Adresa": "Str.Republicii,nr.8",
+    "demail": "nucet@cjd.ro",
+    "telefonprimariegeneral": 245267004,
+    "nrfax": 245267007,
+    "Primar": "Bărboiu Luisa Marioara",
+    "telefonprimar": 724502507,
+    "Şef SVSU": "Popescu Elena Claudia",
+    "telefonsvsu": 726155528,
+    "coordinates": {
+      "latitude": 44.781089,
+      "longitude": 25.5460178
+    },
+    "Viceprimar": "Moraru Călin Viorel",
+    "telefonviceprimar": "072437122?"
+  },
+  {
+    "nrcrt": 56,
+    "numePrimarie": "OCNIŢA",
+    "populatie": 4270,
+    "Adresa": "Str.Principală,nr.212",
+    "demail": "relatii@primaria ocnita.ro",
+    "telefonprimariegeneral": 245680208,
+    "nrfax": 245680206,
+    "Primar": "Barcău Eduard",
+    "telefonprimar": 745664501,
+    "Viceprimar": "Nedelcu Viorel",
+    "telefonviceprimar": 729557069,
+    "Şef SVSU": "Vlaicu Marin",
+    "telefonsvsu": "0721205777/0735178241",
+    "coordinates": {
+      "latitude": 44.9877782,
+      "longitude": 25.5543124
+    }
+  },
+  {
+    "nrcrt": 57,
+    "numePrimarie": "ODOBEŞTI",
+    "populatie": 4996,
+    "Adresa": "Str.Băncii,nr.1",
+    "demail": "primaria_odobesti@yahoo.com",
+    "telefonprimariegeneral": 245721101,
+    "nrfax": 245721101,
+    "Primar": "Radu Ilie",
+    "telefonprimar": 729226634,
+    "Viceprimar": null,
+    "telefonviceprimar": null,
+    "Şef SVSU": "Anghel Vasile",
+    "telefonsvsu": "0732406121/0723252440",
+    "coordinates": {
+      "latitude": 44.6111137,
+      "longitude": 25.555771
+    }
+  },
+  {
+    "nrcrt": 58,
+    "numePrimarie": "PERŞINARI",
+    "populatie": 2749,
+    "Adresa": "Str.Principală,Perșinari",
+    "demail": "primaria_persinari@yahoo.com",
+    "telefonprimariegeneral": 245684618,
+    "nrfax": 245684618,
+    "Primar": "Bunea Marin",
+    "telefonprimar": "0732408244/0735197525",
+    "Viceprimar": "Toma Horia",
+    "telefonviceprimar": 724408242,
+    "Şef SVSU": "Gheorghe Preda Gabriela",
+    "telefonsvsu": 735197525,
+    "coordinates": {
+      "latitude": 44.7970206,
+      "longitude": 25.4966329
+    }
+  },
+  {
+    "nrcrt": 59,
+    "numePrimarie": "PETREŞTI",
+    "populatie": 5309,
+    "Adresa": "Str.Principală,nr.1",
+    "demail": "primariapetresti@primariapetresti.ro",
+    "telefonprimariegeneral": 245730084,
+    "nrfax": 245730084,
+    "Primar": "Andrei Lucian",
+    "telefonprimar": 744558441,
+    "Viceprimar": "Stoica Niculaie",
+    "telefonviceprimar": 766260300,
+    "Şef SVSU": "Zamfirescu Mihaela",
+    "telefonsvsu": 762623808,
+    "coordinates": {
+      "latitude": 44.6545162,
+      "longitude": 25.3361924
+    }
+  },
+  {
+    "nrcrt": 60,
+    "numePrimarie": "PIETRARI",
+    "populatie": 2341,
+    "Adresa": "Calea Târgoviștei,nr.86",
+    "demail": "pietraridambovita@yahoo.com",
+    "telefonprimariegeneral": 372901927,
+    "nrfax": 372000185,
+    "Primar": "Coman Cornel",
+    "telefonprimar": 769041950,
+    "Viceprimar": "Toader Alexandru Constantin",
+    "telefonviceprimar": 725804557,
+    "Şef SVSU": "Bratu Monica Elena",
+    "telefonsvsu": 762623808,
+    "coordinates": {
+      "latitude": 45.0942519,
+      "longitude": 25.2919291
+    }
+  },
+  {
+    "nrcrt": 61,
+    "numePrimarie": "PIETROŞIŢA",
+    "populatie": 3076,
+    "Adresa": "Centru,nr.471",
+    "demail": "pietrosita@gmail.com",
+    "telefonprimariegeneral": 245778247,
+    "nrfax": 245778121,
+    "Primar": "Dicu Ion",
+    "telefonprimar": 723591277,
+    "Viceprimar": "Secăreanu Mihai Mirel",
+    "telefonviceprimar": 724177554,
+    "Şef SVSU": "Coman Mariana Claudia",
+    "telefonsvsu": 724998253
+  },
+  {
+    "nrcrt": 62,
+    "numePrimarie": "POIANA",
+    "populatie": 3447,
+    "Adresa": "Str.Principală,nr.1",
+    "demail": "primaria_poianadambovita@yahoo.com",
+    "telefonprimariegeneral": 245781841,
+    "nrfax": 245721723,
+    "Primar": "Șerban Marian",
+    "telefonprimar": 724250880,
+    "Viceprimar": "Perșinaru Ion",
+    "telefonviceprimar": 721228247,
+    "Şef SVSU": "Ilie Mădălina",
+    "telefonsvsu": 741183371
+  },
+  {
+    "nrcrt": 63,
+    "numePrimarie": "POTLOGI",
+    "populatie": 9154,
+    "Adresa": "Constantin Brâncoveanu,nr.63",
+    "demail": "primariapotlogi@yahoo.com",
+    "telefonprimariegeneral": 245722401,
+    "nrfax": 245722492,
+    "Primar": "Drăghici Viorel",
+    "telefonprimar": 730559651,
+    "Viceprimar": "Anghel Marian",
+    "telefonviceprimar": 723671168,
+    "Şef SVSU": "Bucșenaru Gabriela",
+    "telefonsvsu": 732100124,
+    "coordinates": {
+      "latitude": 44.56316589999999,
+      "longitude": 25.58879689999999
+    }
+  },
+  {
+    "nrcrt": 64,
+    "numePrimarie": "PRODULEŞTI",
+    "populatie": 3329,
+    "Adresa": "Șoseaua Târgoviște,nr.622",
+    "demail": "primaria.produlesti@yahoo.com",
+    "telefonprimariegeneral": 245243641,
+    "nrfax": 245243643,
+    "Primar": "Georgescu George",
+    "telefonprimar": 785213632,
+    "Viceprimar": "Ionescu George",
+    "telefonviceprimar": 766564093,
+    "Şef SVSU": "Dincă Aurelia",
+    "telefonsvsu": 769022187,
+    "coordinates": {
+      "latitude": 44.70771999999999,
+      "longitude": 25.5133787
+    }
+  },
+  {
+    "nrcrt": 65,
+    "numePrimarie": "PUCHENI",
+    "populatie": 1647,
+    "Adresa": "Pucheni",
+    "demail": "primariapucheni@yahoo.com",
+    "telefonprimariegeneral": 245670515,
+    "nrfax": 245670515,
+    "Primar": "Nistor Corneliu",
+    "telefonprimar": 769684866,
+    "Viceprimar": "Țîncu Gheorghe Gabriel",
+    "telefonviceprimar": 723116940,
+    "Şef SVSU": "Istrătescu Carmen Elena",
+    "telefonsvsu": 733685898,
+    "coordinates": {
+      "latitude": 45.18397239999999,
+      "longitude": 25.2756064
+    }
+  },
+  {
+    "nrcrt": 66,
+    "numePrimarie": "RACIU",
+    "populatie": 3180,
+    "Adresa": "Raciu,nr.455",
+    "demail": "primariaraciu@yahoo.com",
+    "telefonprimariegeneral": 345524020,
+    "nrfax": 345524020,
+    "Primar": "Grădinaru Vasile",
+    "telefonprimar": 754078955,
+    "Viceprimar": "Voicu Nicolae",
+    "telefonviceprimar": 754078956,
+    "Şef SVSU": "Iancu Corina Beatrice",
+    "telefonsvsu": "0766340826",
+    "coordinates": {
+      "latitude": 44.81955929999999,
+      "longitude": 25.4382837
+    }
+  },
+  {
+    "nrcrt": 67,
+    "numePrimarie": "RUNCU",
+    "populatie": 4145,
+    "Adresa": "Str.Principală,nr.17",
+    "demail": "primaria.runcu@yahoo.com",
+    "telefonprimariegeneral": 245234003,
+    "nrfax": 245234003,
+    "Primar": "Brebeanu Gheorghe",
+    "telefonprimar": 721250140,
+    "Viceprimar": "Solomon Constantin",
+    "telefonviceprimar": 724098520,
+    "Şef SVSU": "Marica Veronica Mihaela",
+    "telefonsvsu": 721265882
+  },
+  {
+    "nrcrt": 68,
+    "numePrimarie": "RAU ALB",
+    "populatie": 1334,
+    "Adresa": "Str.Principală",
+    "demail": "primariaraualb@yahoo.com",
+    "telefonprimariegeneral": 245240740,
+    "nrfax": 245240740,
+    "Primar": "Rizea Costel",
+    "telefonprimar": 763581330,
+    "Viceprimar": "Moiceanu Marinela",
+    "telefonviceprimar": 728640440,
+    "Şef SVSU": "Negoescu Mihăiță",
+    "telefonsvsu": 764532000,
+    "coordinates": {
+      "latitude": 45.1478727,
+      "longitude": 25.3409354
+    }
+  },
+  {
+    "nrcrt": 69,
+    "numePrimarie": "RĂSCĂEŢI",
+    "populatie": 2179,
+    "Adresa": "Mr.I.Vochin,nr.89",
+    "demail": "prascaeti@yahoo.com",
+    "telefonprimariegeneral": 245725825,
+    "nrfax": 245725825,
+    "Primar": "Buibăr Iulian",
+    "telefonprimar": 766476682,
+    "Viceprimar": "Coman Vasile",
+    "telefonviceprimar": 766485641,
+    "Şef SVSU": "Marcu Nicoleta Maria",
+    "telefonsvsu": "0767507172/0723341054",
+    "coordinates": {
+      "latitude": 44.5938562,
+      "longitude": 25.2637852
+    }
+  },
+  {
+    "nrcrt": 70,
+    "numePrimarie": "RĂZVAD",
+    "populatie": 8746,
+    "Adresa": "Str.Principală,nr.350",
+    "demail": "primariarazvad@yahoo.com",
+    "telefonprimariegeneral": 245677516,
+    "nrfax": 245677530,
+    "Primar": "Spătaru Emanuel",
+    "telefonprimar": "0737025129/0756000206",
+    "Viceprimar": "Tătulescu Iulian Marian",
+    "telefonviceprimar": 734332740,
+    "Şef SVSU": "Bumbănac Daniela Tatiana",
+    "telefonsvsu": 724772584,
+    "coordinates": {
+      "latitude": 44.93555689999999,
+      "longitude": 25.525161
+    }
+  },
+  {
+    "nrcrt": 71,
+    "numePrimarie": "SLOBOZIA MOARĂ",
+    "populatie": 1989,
+    "Adresa": "Str.Primăriei,nr.24",
+    "demail": "primariasloboziamoara@gmail.com/office@primariasloboziamoara.ro",
+    "telefonprimariegeneral": "0245724174/0245724138",
+    "nrfax": "0245724174/0245724138",
+    "Primar": "Bucur Răzvan",
+    "telefonprimar": "0723592285/0760260922",
+    "Viceprimar": "Rogojinaru Marian",
+    "telefonviceprimar": "0768013556",
+    "Şef SVSU": "Pîrvu Georgeta",
+    "telefonsvsu": "0760260935",
+    "coordinates": {
+      "latitude": 44.5995779,
+      "longitude": 25.72661849999999
+    }
+  },
+  {
+    "nrcrt": 72,
+    "numePrimarie": "SĂLCIOARA",
+    "populatie": 3749,
+    "Adresa": "Str.Principală,nr.98",
+    "demail": "relaţii.publicul@comunasalcioara.ro",
+    "telefonprimariegeneral": 245723661,
+    "nrfax": 245723695,
+    "Primar": "Ivașcu Florina",
+    "telefonprimar": 763339640,
+    "Viceprimar": null,
+    "telefonviceprimar": null,
+    "Şef SVSU": "Paraschiva Elena",
+    "telefonsvsu": 721255595,
+    "coordinates": {
+      "latitude": 44.7365746,
+      "longitude": 25.5708775
+    }
+  },
+  {
+    "nrcrt": 73,
+    "numePrimarie": "ŞELARU",
+    "populatie": 2899,
+    "Adresa": "Sat Șelaru,nr.162",
+    "demail": "primaria.selarudb@gmail",
+    "telefonprimariegeneral": 245723024,
+    "nrfax": 245723371,
+    "Primar": "Matei Gheorghiță",
+    "telefonprimar": 784240024,
+    "Viceprimar": "Drăgușin Relu",
+    "telefonviceprimar": 722815236,
+    "Şef SVSU": "Dragnea Emilian Petre",
+    "telefonsvsu": 784240026,
+    "coordinates": {
+      "latitude": 44.4780701,
+      "longitude": 25.3007819
+    }
+  },
+  {
+    "nrcrt": 74,
+    "numePrimarie": "ŞOTÂNGA",
+    "populatie": 7014,
+    "Adresa": "Str.Constantin Brâncoveanu,nr.373",
+    "demail": "primaria@sotanga.ro",
+    "telefonprimariegeneral": 245229207,
+    "nrfax": 245229013,
+    "Primar": "Stroe Constantin",
+    "telefonprimar": 723613523,
+    "Viceprimar": "Negrea Vasile",
+    "telefonviceprimar": 723337114,
+    "Şef SVSU": null,
+    "telefonsvsu": null,
+    "coordinates": {
+      "latitude": 44.9888169,
+      "longitude": 25.3825428
+    }
+  },
+  {
+    "nrcrt": 75,
+    "numePrimarie": "TĂRTĂŞEŞTI",
+    "populatie": 5186,
+    "Adresa": "Tărtășești",
+    "demail": "primaria_tartasesti@yahoo.com",
+    "telefonprimariegeneral": 245261261,
+    "nrfax": 245261239,
+    "Primar": "Tudorache Cristian",
+    "telefonprimar": "0768106595/0760261141",
+    "Viceprimar": "Chirilă Ștefan Daniel",
+    "telefonviceprimar": 760261140,
+    "coordinates": {
+      "latitude": 44.57464230000001,
+      "longitude": 25.8268153
+    },
+    "Şef SVSU": "Simionescu Ecaterina",
+    "telefonsvsu": 729911257
+  },
+  {
+    "nrcrt": 76,
+    "numePrimarie": "TĂTĂRANI",
+    "populatie": 4978,
+    "Adresa": "Str.Principală,nr.59",
+    "demail": "primariatatarani@yahoo.com",
+    "telefonprimariegeneral": 245238209,
+    "nrfax": 245238388,
+    "Primar": "Pătru Constantin",
+    "telefonprimar": 785212312,
+    "Viceprimar": "Ivașcu Virginia",
+    "telefonviceprimar": 785212823,
+    "Şef SVSU": "Mihăilă Mioara",
+    "telefonsvsu": 785212813,
+    "coordinates": {
+      "latitude": 44.99795950000001,
+      "longitude": 25.276093
+    }
+  },
+  {
+    "nrcrt": 77,
+    "numePrimarie": "ULIEŞTI",
+    "populatie": 3985,
+    "Adresa": "Str.Principală,nr.225",
+    "demail": "primaria_uliesti@yahoo.com",
+    "telefonprimariegeneral": 245724519,
+    "nrfax": 245724618,
+    "Primar": "Costache Iulian-Petrișor",
+    "telefonprimar": 769774477,
+    "Viceprimar": "Radu Marinel",
+    "telefonviceprimar": 762604877,
+    "Şef SVSU": "Andrei Maria Camelia",
+    "telefonsvsu": 786720236,
+    "coordinates": {
+      "latitude": 44.5905808,
+      "longitude": 25.4225077
+    }
+  },
+  {
+    "nrcrt": 78,
+    "numePrimarie": "ULMI",
+    "populatie": 4764,
+    "Adresa": "Str.Principală,nr.146",
+    "demail": "primaria.ulmi@yahoo.com",
+    "telefonprimariegeneral": 245631082,
+    "nrfax": 245631082,
+    "Primar": "Tița Petruț Bogdan",
+    "telefonprimar": 723401544,
+    "Viceprimar": "Păun Cosmin Ionuț",
+    "telefonviceprimar": 726752782,
+    "Şef SVSU": "Nicolae Ana Florina",
+    "telefonsvsu": 726185848,
+    "coordinates": {
+      "latitude": 44.8956978,
+      "longitude": 25.5006073
+    }
+  },
+  {
+    "nrcrt": 79,
+    "numePrimarie": "VALEA LUNGĂ",
+    "populatie": 4581,
+    "Adresa": "Sat Valea Lungă Cricov,nr.169",
+    "demail": "primaria.valealunga@gmail.com",
+    "telefonprimariegeneral": 245661509,
+    "nrfax": 245669740,
+    "Primar": "Negru Emil",
+    "telefonprimar": 787756793,
+    "Viceprimar": "Iordache Ion",
+    "telefonviceprimar": 733015759,
+    "Şef SVSU": "Manea Laura Georgiana",
+    "telefonsvsu": 731496442,
+    "coordinates": {
+      "latitude": 45.0696152,
+      "longitude": 25.5778552
+    }
+  },
+  {
+    "nrcrt": 80,
+    "numePrimarie": "VALEA MARE",
+    "populatie": 2082,
+    "Adresa": "Str.Principală,nr.218",
+    "demail": "primariavaleamaredb@yahoo.com",
+    "telefonprimariegeneral": 245606323,
+    "nrfax": 245606322,
+    "Primar": "Miu Ion Constantin",
+    "telefonprimar": 731580820,
+    "Viceprimar": "Dinu Laurențiu Petruț",
+    "telefonviceprimar": 765453101,
+    "Şef SVSU": "Duță Corina",
+    "telefonsvsu": 731580823,
+    "coordinates": {
+      "latitude": 44.7812199,
+      "longitude": 25.2398788
+    }
+  },
+  {
+    "nrcrt": 81,
+    "numePrimarie": "VÂRFURI",
+    "populatie": 1784,
+    "Adresa": "Sat Suvita,nr.137",
+    "demail": "primariavarfuri@yahoo.com",
+    "telefonprimariegeneral": 245233102,
+    "nrfax": 345401826,
+    "Primar": "Bănaru Răzvan",
+    "telefonprimar": 723522207,
+    "Viceprimar": "Drăgoiescu Viorel",
+    "telefonviceprimar": 722886326,
+    "Şef SVSU": "Gogioiu Alina",
+    "telefonsvsu": 720423027,
+    "coordinates": {
+      "latitude": 45.0862795,
+      "longitude": 25.5032248
+    }
+  },
+  {
+    "nrcrt": 82,
+    "numePrimarie": "VĂCĂREŞTI",
+    "populatie": 5027,
+    "Adresa": "Văcărești",
+    "demail": "primaria.vacaresti@yahoo.com",
+    "telefonprimariegeneral": 245684330,
+    "nrfax": 245684330,
+    "Primar": "Badea Ionuț Irinel",
+    "telefonprimar": 723677568,
+    "Viceprimar": "Ancuța Florin Alexandru",
+    "telefonviceprimar": 723759404,
+    "Şef SVSU": "Popescu Marian",
+    "telefonsvsu": 726188883,
+    "coordinates": {
+      "latitude": 44.8566826,
+      "longitude": 25.4844296
+    }
+  },
+  {
+    "nrcrt": 83,
+    "numePrimarie": "VĂLENI DÂMBOVIŢA",
+    "populatie": 2405,
+    "Adresa": "Sat Văleni Dâmbovița,nr.643",
+    "demail": "primariavaleni@yahoo.com",
+    "telefonprimariegeneral": 245243317,
+    "nrfax": 245243317,
+    "Primar": "Lungu Marian",
+    "telefonprimar": 722345536,
+    "Viceprimar": "Oprescu Aurora",
+    "telefonviceprimar": 769041912,
+    "Şef SVSU": "Badea Luminița",
+    "telefonsvsu": 769041902,
+    "coordinates": {
+      "latitude": 45.1647544,
+      "longitude": 25.1737386
+    }
+  },
+  {
+    "nrcrt": 84,
+    "numePrimarie": "VIŞINA",
+    "populatie": 3919,
+    "Adresa": "Str.Mihai Viteazu,nr.29",
+    "demail": "primariavisina_db@yahoo.com",
+    "telefonprimariegeneral": "0245725064/0245725200",
+    "nrfax": "0245725064/0245725200",
+    "Primar": "Istrate Aurelian",
+    "telefonprimar": 734450837,
+    "Viceprimar": "Papa Ionuț",
+    "telefonviceprimar": 763461805,
+    "Şef SVSU": "Sultana Ștefan",
+    "telefonsvsu": 728926647,
+    "coordinates": {
+      "latitude": 44.5962987,
+      "longitude": 25.333961
+    }
+  },
+  {
+    "nrcrt": 85,
+    "numePrimarie": "VIŞINEŞTI",
+    "populatie": 1711,
+    "Adresa": "Str.Principală,nr.249",
+    "demail": "primaria.visinesti@gmail.com",
+    "telefonprimariegeneral": 245662410,
+    "nrfax": 245662472,
+    "Primar": "Stoica Nicolae",
+    "telefonprimar": 760265975,
+    "Viceprimar": "Țapu Marian",
+    "telefonviceprimar": 760265970,
+    "Şef SVSU": "Simionescu Daniela",
+    "telefonsvsu": 760265949,
+    "coordinates": {
+      "latitude": 45.11066399999999,
+      "longitude": 25.55246739999999
+    }
+  },
+  {
+    "nrcrt": 86,
+    "numePrimarie": "VLĂDENI",
+    "populatie": 2836,
+    "Adresa": "Str.Principală,nr.152",
+    "demail": "primariavladeni@yahoo.com",
+    "telefonprimariegeneral": 245660839,
+    "nrfax": 245660839,
+    "Primar": "Poșircă Maria",
+    "telefonprimar": 732453000,
+    "Viceprimar": "Stoian Nicolae Cornel",
+    "telefonviceprimar": 726150875,
+    "Şef SVSU": "Hoțescu Daniela",
+    "telefonsvsu": 729968993,
+    "coordinates": {
+      "latitude": 44.87465249999999,
+      "longitude": 25.77157009999999
+    }
+  },
+  {
+    "nrcrt": 87,
+    "numePrimarie": "VOINEŞTI",
+    "populatie": 5887,
+    "Adresa": "Str.Principală,nr.145",
+    "demail": "consiliullocalvoinesti@yahoo.com",
+    "telefonprimariegeneral": 245679324,
+    "nrfax": 245679324,
+    "Primar": "Sandu Gabriel",
+    "telefonprimar": 723142661,
+    "Viceprimar": "Popa Claudiu Constantin",
+    "telefonviceprimar": 723142662,
+    "Şef SVSU": "Popescu Otilia Lidia",
+    "telefonsvsu": "0728955614",
+    "coordinates": {
+      "latitude": 45.0676771,
+      "longitude": 25.25012959999999
+    }
+  },
+  {
+    "nrcrt": 88,
+    "numePrimarie": "VULCANA-BĂI",
+    "populatie": 2968,
+    "Adresa": "Str.Vlad Țepeș,nr.18",
+    "demail": "primaria@vulcanabai.ro",
+    "telefonprimariegeneral": "245230890/0245230899",
+    "nrfax": 245230904,
+    "Primar": "Drăghici Emil",
+    "telefonprimar": 723329838,
+    "Viceprimar": "Marin Mădălina Mihaela",
+    "telefonviceprimar": 724517914,
+    "Şef SVSU": "Burcă Dionisie",
+    "telefonsvsu": 747538335
+  },
+  {
+    "nrcrt": 89,
+    "numePrimarie": "VULCANA PANDELE",
+    "populatie": 4980,
+    "Adresa": "Str.Principală,nr.9",
+    "demail": "office@vulcanapandele.ro",
+    "telefonprimariegeneral": 245708728,
+    "nrfax": 245230340,
+    "Primar": "Rotaru George",
+    "telefonprimar": 723136157,
+    "Viceprimar": "Scîrtoaje Bogdan Constantin",
+    "telefonviceprimar": 724917915,
+    "Şef SVSU": "Dumitru Roxana",
+    "telefonsvsu": 726850128,
+    "coordinates": {
+      "latitude": 45.0203163,
+      "longitude": 25.3983073
+    }
+  },
+  {
+    "nrcrt": 90,
+    "numePrimarie": "JUDEȚUL DÂMBOVIȚA",
+    "populatie": 512740
+  }
+]
