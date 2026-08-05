@@ -33,7 +33,11 @@
     "Viceprimar": "Ionescu Ștefania",
     "telefonviceprimar": 728974377,
     "Şef SVSU": "Cioceanu Sebastian",
-    "telefonsvsu": 736649533
+    "telefonsvsu": 736649533,
+      "coordinates": {
+      "latitude": 44.981902891005255,
+      "longitude": 25.639934264261395
+    }
   },
   {
     "nrcrt": 3,
